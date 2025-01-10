@@ -1,0 +1,10 @@
+/* error page styling */
+body#errorPage{
+    background-image: url('../../../public/images/stars.jpeg');
+    background-repeat: no-repeat;
+background-size: cover;
+height: 100vh;
+}
+.homeLink{
+    color: cyan;
+}

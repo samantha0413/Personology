@@ -1,0 +1,1813 @@
+[
+    {
+        "quiz":"animal",
+        "name": "Lion",
+        "desc": [
+            {
+                "para": [
+                    "Lions are leaders. They are usually the bosses at work...or at least they think they are! They are decisive, bottom line folks who are observers, not watchers or listeners. They love to solve problems. They are usually individualists who love to seek new adventures and opportunities. Lions are very confident and self-reliant. In a group setting, if no one else instantly takes charge, the lion will. Unfortunately, if they don't learn how to tone down their aggressiveness, their natural dominating traits can cause problems with others. Most entrepreneurs are strong lions, or at least have a lot of lion in them."
+                ]
+            },
+            {
+                "title": "Natural Strengths",
+                "para": [
+                    "Decisive",
+                    "Goal-oriented",
+                    "Achievement driven",
+                    "Gets results",
+                    "Independent",
+                    "Risk-taker",
+                    "Takes charge",
+                    "Takes initiative",
+                    "Self-starter",
+                    "Persistent",
+                    "Efficient",
+                    "Competitive",
+                    "Enjoys challenges, variety and change",
+                    "Driven to complete projects quickly and effectively"
+                ]
+            },
+            {
+                "title": "Natural Weaknesses",
+                "para": [
+                    "Impatient",
+                    "Blunt",
+                    "Poor listener",
+                    "Impulsive",
+                    "Demanding",
+                    "May view projects more important than people",
+                    "Can be insensitive to the feelings of others",
+                    "May 'run over' others who are slower to act or speak",
+                    "fears inactivity, relaxation",
+                    "Quickly bored by routine or mechanics"
+                ]
+            },
+            {
+                "title": "Basic Disposition",
+                "para": [
+                    "Fast-paced, task oriented"
+                ]
+            },
+            {
+                "title": "Motivated By:",
+                "para": [
+                    "Results; challenge, action, power, and credit for achievement"
+                ]
+            },
+            {
+                "title": "Time Management:",
+                "para": [
+                    "Lions focus on NOW instead of distant future. They get a lot more done in a lot less time than their peers. Hates wasting time; and like to get right to the point"
+                ]
+            },
+            {
+                "title": "Communication Style: ",
+                "para": [
+                    "Great at initiating communication; not good at listening (one way communicator)"
+                ]
+            },
+            {
+                "title": "Decision Making:",
+                "para": [
+                    "Impulsive; makes quick decisions with goal or end result in mind. Results-focused. Needs very few facts to make a decision"
+                ]
+            },
+            {
+                "title": "In Pressure or Tense Situations: ",
+                "para": [
+                    "The lions takes command and becomes autocratic"
+                ]
+            },
+            {
+                "title": "Greatest Needs:",
+                "para": [
+                    "The lions needs to see results, experience variety, and face new challenges. S/he needs to solve problems and wants direct answers."
+                ]
+            },
+            {
+                "title": "What The Lion Desires:",
+                "para": [
+                    "Freedom, authority, variety, difficult assignments, opportunity for advancement"
+                ]
+            }
+        ]
+    },
+    {
+        "quiz":"animal",
+        "name": "Otter",
+        "desc": [
+            {
+                "para": [
+                    "Otters are excitable, fun seeking, cheerleader types who love to talk! They're great at motivating others and need to be in an environment where they can talk and have a vote on major decisions. The otters' outgoing nature makes them great networkers - they usually know a lot of people who know a lot of people. They can be very loving and encouraging unless under pressure, when they tend to use their verbal skills to attack. They have a strong desire to be liked and enjoy being the center of attention. They are often very attentive to style, clothes, and flash. Otters are the life of any party; and most people really enjoy being around them."
+                ]
+            },
+            {
+                "title": "Natural Strengths",
+                "para": [
+                    "Enthusiastic",
+                    "Optimistic",
+                    "Good Communicator",
+                    "Emotional and Passionate",
+                    "Motivational and Inspirational",
+                    "Outgoing",
+                    "Personal",
+                    "Dramatic",
+                    "Fun-loving"
+                ]
+            },
+            {
+                "title": "Natural Weaknesses",
+                "para": [
+                    "Unrealistic",
+                    "Not detail-oriented",
+                    "Disorganized",
+                    "Impulsive",
+                    "Listens to feelings above logic",
+                    "Reactive",
+                    "Can be too talkative",
+                    "Excitable"
+                ]
+            },
+            {
+                "title": "Basic Disposition:",
+                "para": [
+                    "Fast-paced. People-oriented."
+                ]
+            },
+            {
+                "title": "Motivated By:",
+                "para": [
+                    "Recognition and approval of others"
+                ]
+            },
+            {
+                "title": "Time Management:",
+                "para": [
+                    "Otters focus on the future and have a tendency to rush to the next exciting thing."
+                ]
+            },
+            {
+                "title": "Communication Style:",
+                "para": [
+                    "Enthusiastic and stimulating, often one-way; but can inspire and motivate others."
+                ]
+            },
+            {
+                "title": "Decision Making:",
+                "para": [
+                    "Intuitive and fast. Makes lost of 'right calls' and lots of wrong ones."
+                ]
+            },
+            {
+                "title": "In Pressure or Tense Situations:",
+                "para": [
+                    "The otter ATTACKS. Can be more concerned about their popularity than about achieving tangible results."
+                ]
+            },
+            {
+                "title": "Greatest Needs:",
+                "para": [
+                    "The otter needs social activities and recognition; activities that are fun, and freedom from details."
+                ]
+            },
+            {
+                "title": "What The Otter Desires:",
+                "para": [
+                    "Prestige, friendly relationships, opportunity to help and motivate others, and opportunities to verbally share their ideas."
+                ]
+            }
+        ]
+    },
+    {
+        "quiz":"animal",
+        "name": "Golden Retriever",
+        "desc": [
+            {
+                "para": [
+                    "One word describes these people: LOYAL. They're so loyal, in fact, that they can absorb the most emotional pain and punishment in a relationship and still stay committed.They are great listeners, incredibly empathetic and warm encouragers. However, they tend to be such pleasers that they can have great difficulty being assertive in a situation or relationship when it's needed."
+                ]
+            },
+            {
+                "title": "Natural Strengths",
+                "para": [
+                    "Patient",
+                    "Easy-going",
+                    "Team player",
+                    "Stable",
+                    "Empathetic",
+                    "Compassionate",
+                    "Sensitive to feelings of others",
+                    "Tremendously loyal",
+                    "Puts people above projects",
+                    "Dependable",
+                    "Reliable",
+                    "Supportive",
+                    "Agreeable"
+                ]
+            },
+            {
+                "title": "Natural Weaknesses",
+                "para": [
+                    "Indecisive",
+                    "Over-accommodating",
+                    "may sacrifice results for the sake of harmony",
+                    "Slow to initiate",
+                    "Avoids confrontation even when needed",
+                    "Tends to hold grudges and remember hurts inflicted by others",
+                    "Fears change"
+                ]
+            },
+            {
+                "title": "Basic Disposition:",
+                "para": [
+                    "Slow-paced, people-oriented"
+                ]
+            },
+            {
+                "title": "Motivated By:",
+                "para": [
+                    "Desire for good relationships and appreciation of others."
+                ]
+            },
+            {
+                "title": "Time Management:",
+                "para": [
+                    "Golden Retrievers focus on on the present and devote lots of time to helping others and building relationships."
+                ]
+            },
+            {
+                "title": "Communication Style:",
+                "para": [
+                    "Two-way communicator; great listener and provides empathetic response."
+                ]
+            },
+            {
+                "title": "Decision Making:",
+                "para": [
+                    "Makes decisions more slowly, wants input from others, and often yields to the input."
+                ]
+            },
+            {
+                "title": "In Pressure or Tense Situations: ",
+                "para": [
+                    "The Golden Retriever gives in to the opinions, ideas, and wishes of others. Often too tolerant."
+                ]
+            },
+            {
+                "title": "Greatest Needs:",
+                "para": [
+                    "The Golden Retriever needs security; gradual change and time to adjust to it; an environment free of conflict."
+                ]
+            },
+            {
+                "title": "What The Golden Retriever Desires:",
+                "para": [
+                    "Quality relationships; security; consistent known environment; a relaxed and friendly environment; freedom to work at own pace."
+                ]
+            }
+        ]
+    },
+    {
+        "quiz":"animal",
+        "name": "Beaver",
+        "desc": [
+            {
+                "para": [
+                    "Beavers have a strong need to do things right and by the book. In fact, they are the kind of people who actually read instruction manuals. They are great at providing quality control in an office, and will provide quality control in any situation or field that demands accuracy, such as accounting, engineering, etc. Because rules, consistency and high standards are so important to beavers, they are often frustrated with others who do not share these same characteristics. Their strong needs for maintaining high (and oftentimes unrealistic) standards can short-circuit their ability to express warmth in a relationship."
+                ]
+            },
+            {
+                "title": "Natural Strengths",
+                "para": [
+                    "Accurate",
+                    "Analytical",
+                    "Detail-oriented",
+                    "Thoroughness",
+                    "Industrious",
+                    "Orderly",
+                    "Methodical and Exhaustive",
+                    "High standards",
+                    "Intuitive",
+                    "Controlled"
+                ]
+            },
+            {
+                "title": "Natural Weaknesses",
+                "para": [
+                    "Too hard on self",
+                    "Too critical of others",
+                    "Perfectionist",
+                    "Overly cautious",
+                    "Won't make decisions without 'all' the facts",
+                    "Too picky",
+                    "Overly sensitive"
+                ]
+            },
+            {
+                "title": "Basic Disposition:",
+                "para": [
+                    "Slow-paced, task-oriented"
+                ]
+            },
+            {
+                "title": "Motivated By:",
+                "para": [
+                    "The desire to be right and maintain quality."
+                ]
+            },
+            {
+                "title": "Time Management:",
+                "para": [
+                    "Beavers tend to work slowly to make sure they are accurate."
+                ]
+            },
+            {
+                "title": "Communication Style:",
+                "para": [
+                    "Beavers are good listeners, communicate details, and usually diplomatic."
+                ]
+            },
+            {
+                "title": "Decision Making:",
+                "para": [
+                    "Avoids making decisions; needs lots of information before they will make a decision."
+                ]
+            },
+            {
+                "title": "In Pressure or Tense Situations:",
+                "para": [
+                    "The beaver tries to avoid pressure or tense situations. They can ignore deadlines."
+                ]
+            },
+            {
+                "title": "Greatest Needs:",
+                "para": [
+                    "The beaver needs security, gradual change and time to adjust to it."
+                ]
+            },
+            {
+                "title": "What The Beaver Desires:",
+                "para": [
+                    "Clearly defined tasks, stability, security, low risk, and tasks that require precision and planning."
+                ]
+            }
+        ]
+    },
+    {
+        "quiz":"attached",
+        "name": "Anxious",
+        "desc": [
+            {
+                "para": ["You love to be very close to your romantic partners and have the capacity for intimacy. You often fear, however, that your partner does not wish to be as close as you would like him/her to be. Relationships tend to consume a large part of your emotional energy. You tend to be very sensitive to small fluctuations in your partner's moods and actions, and although your senses are often accurate, you take your partner's behaviors too personally. You experience a lot of negative emotions within the relationship and get easily upset. As a result, you tend to act out and say things you later regret. If the other person provides a lot of security and reassurance, however, you are able to shed much of your preoccupation and feel contented."]
+            }
+        ]
+    },
+    {
+        "quiz":"attached",
+        "name": "Secure",
+        "desc": [
+            {
+                "para": ["Being warm and loving in a relationship comes naturally to you. You enjoy being intimate without becoming overly worried about your relationships. You take things in stride when it comes to romance and don't get easily upset over relationship matters. You effectively communicate your needs and feelings to your partner and are strong at reading your partner's emotional cues and responding to them. You share your successes and problems with your mate, and are able to be there for him or her in times of need."]
+            }
+        ]
+    },
+    {
+        "quiz":"attached",
+        "name": "Avoidant",
+        "desc": [
+            {
+                "para": ["It is very important for you to maintain your independence and self-sufficiency and you often prefer autonomy to intimate relationships. Even though you do want to be close to others, you feel uncomfortable with too much closeness and tend to keep your partner at arm's length. You don't spend much time worrying about your romantic relationships or about being rejected. You tend not to open up to your partners and they often complain that you are emotionally distant. In relationships, you are often on high alert for any signs of control or impingement on your territory by your partner."]
+            }
+        ]
+    },
+    {
+        "quiz":"color",
+        "name": "Red",
+        "desc": [
+            {
+                "para": ["A Major Strength: Your greatest strength is that you can take charge and lead when you need to do so."]
+            },
+            {
+                "para": ["You can be too rigid. 'My way or the highway' thinking can cause people to leave you"]
+            },
+            {
+                "para": ["red personalities love being RIGHT, so much so that there are times that they would rather be RIGHT than be loved. You must remember that your opinions are just that--opinions--not facts."]
+            },
+            {
+                "para": ["Your tendency to make your temper or bad mood someone else's problem damages trust in your relationships."]
+            },
+            {
+                "para": ["Your gruff  exterior can keep people from really knowing and loving the best parts of you."]
+            },
+            {
+                "para": ["You can be too focused on yourself and not enough on others around you."]
+            }
+        ]
+    },
+    {
+        "quiz":"color",
+        "name": "Purple",
+        "desc": [
+            {
+                "para": ["A Major Strength: Your greatest strength is that you are good at getting things done."]
+            },
+            {
+                "para": ["You are always at war with time. You believe there is not enough time to accomplish the things that need to be accomplished. You can have difficulty getting your priorities in order--tunnel vision with your work can harm your relationships."]
+            },
+            {
+                "para": ["You love having the RIGHT answer to a problem. But you will do your best in relationships when you remember that others can assist you in solving problems, and you learn to value their viewpoints as well."]
+            },
+            {
+                "para":[ "Your focus can be very narrow. This, at times, can cause your communication to be abrupt. You need to try to have conversations with your spouse or partner, children and co-workers that are longer, at times, than what is necessary."]
+            },
+            {
+                "para": ["Your tendency to be efficient can leave your family and friends feeling left out of your life. You need to remember to make time for the people you love and love them in a way that feels like love to them."]
+            },
+            {
+                "para": ["You have a tendency to define yourself by what you are able to accomplish and produce."]
+            }
+        ]
+    },
+    {
+        "quiz":"color",
+        "name": "Blue",
+        "desc": [
+            {
+                "para": ["A Major Strength: Your greatest strength is that you are organized and focused."]
+            },
+            {
+                "para": ["Sometimes you don't communicate your feelings because you can't find the perfect way to do it. You sometimes think too much about things."]
+            },
+            {
+                "para": ["Blue personalities are doers and need to do things the RIGHT way. This causes them to sometimes not take time to relax and listen. You need to understand that people will think you are much smarter and more dedicated when you show you are willing to listen to them."]
+            },
+            {
+                "para": ["Watch out for a tendency to talk down to others, to be a 'know it all,' or treat others without respect. Try to be more accepting."]
+            },
+            {
+                "para": ["You tend to judge others but that may actually make you (and others) unhappy and frustrated. Try to be more understanding. It could turn your world around."]
+            },
+            {
+                "para": ["You have a tendency to be a perfectionist. This can make you and all those around you very unhappy. Learn the difference between perfect and great."]
+            }
+        ]
+    },
+    {
+        "quiz":"color",
+        "name": "Green",
+        "desc": [
+            {
+                "para": ["A Major Strength: Your greatest strength is that you are respectful and accepting of others."]
+            },
+            {
+                "para": ["however, you must watch out for becoming judgmental, or feeling that your perspectives and values are superior to other people's, even your partner's."]
+            },
+            {
+                "para": ["You are likely a big picture thinker. You may tend to have trouble solving a specific problem until you know how the problem relates to the big picture. Sometimes you make things more complicated than they need to be."]
+            },
+            {
+                "para": ["Sometimes green personalities have such a strong inner spiritual focus that their partners feel like they are not important. Make sure you make your partner feel like a priority."]
+            },
+            {
+                "para": ["Greens become discouraged when they think the world or people around them are out of tune with the RIGHT values. They don't care as much about being right as they care that things are right with the world."]
+            },
+            {
+                "para": ["Your focus on what is fair or right for the world can make you less sensitive to the needs of individuals."]
+            }
+        ]
+    },
+    {
+        "quiz":"color",
+        "name": "Yellow",
+        "desc": [
+            {
+                "para": ["A Major Strength: Your greatest strength is that your are gentle and understanding."]
+            },
+            {
+                "para": ["Your feelings can be so strong that you sometimes do things without thinking. Your heart can overrule your head, so be sure you make clear decisions about relationships."]
+            },
+            {
+                "para": ["Yellow personalities don't care as much about being right as about being loved. This could make you more vulnerable to picking or staying with partners who might not treat you well."]
+            },
+            {
+                "para": ["Because of your gentle nature, you have a tendency to give in to others. When you are hurt or are not appreciated, you might use guilt to attempt to get what you need rather than being direct and telling others what you want to see happen."]
+            },
+            {
+                "para": ["Many times you will sacrifice your needs for the needs of others. This makes you angry but your anger comes out in passive-aggressive, or indirect, ways."]
+            },
+            {
+                "para": ["You have a tendency to over-commit yourself. It is very hard for you to say NO. You need to speak up for what you want or need. This is a skill that you need to develop in order to have happy, healthy relationships."]
+            }
+        ]
+    },
+    {
+        "quiz":"color",
+        "name": "Orange",
+        "desc": [
+            {
+                "para": ["A Major Strength: Your greatest strength is that you help people have fun and try new things."]
+            },
+            {
+                "para": ["You can communicate well when you take the time to do it, but you need to work on slowing down to really listen to others."]
+            },
+            {
+                "para": ["Orange personalities aren't are interested in being right as they are in getting their way. They are so good at talking that they sometimes wind up manipulating people. This can make it hard for others to trust them."]
+            },
+            {
+                "para": ["You have a hard time balancing your commitments and having fun. The song 'Girls Just Wanna Have Fun' was written for orange personalities. You can be so focused on yourself that you sometimes have a hard time following through on the things you told others that you would do."]
+            },
+            {
+                "para": ["You can act without thinking about the consequences. This can get you into trouble in relationships-even at work and sometimes with the law. Learn to think things through carefully"]
+            },
+            {
+                "para": ["You have a tendency to want to be the center of attention. This drive for attention can lead you to ignore other people, even those who are most important to you."]
+            }
+        ]
+    },
+    {
+        "quiz":"fruit",
+        "name": "Grape",
+        "desc": [
+            {
+                "title": "Natural Abilities Include:",
+                "para": [
+                    "Being reflective",
+                    "Being sensitive",
+                    "Being flexible",
+                    "Being creative",
+                    "Preference for working in groups"
+                ]
+            },
+            {
+                "title": "Grapes Learn Best When They:",
+                "para": [
+                    "Can work and share with others",
+                    "Balance work with play",
+                    "Can communicate",
+                    "Are noncompetitive"
+                ]
+            },
+            {
+                "title": "Grapes May Have Trouble:",
+                "para": [
+                    "Giving exact Answers",
+                    "Focusing on one thing at a time",
+                    "Organizing"
+                ]
+            },
+            {
+                "title": "To Expand Their Style, Grapes Need To:",
+                "para": [
+                    "Pay more attention to detail",
+                    "Not rush into things",
+                    "Be less emotional when making some decisions"
+                ]
+            }
+        ]
+    },
+    {
+        "quiz":"fruit",
+        "name": "Orange",
+        "desc": [
+            {
+                "title": "Natural Abilities Include:",
+                "para": [
+                    "Experimenting",
+                    "Being independent",
+                    "Being Curious",
+                    "Creating different Approaches",
+                    "Creating change"
+                ]
+            },
+            {
+                "title": "Oranges Learn Best When They:",
+                "para": [
+                    "Can use trial and error",
+                    "Produce real products",
+                    "Can compete",
+                    "Are self-directed"
+                ]
+            },
+            {
+                "title": "Oranges May Have Trouble:",
+                "para": [
+                    "Meeting time limits",
+                    "Following a lecture",
+                    "Having few options or choices"
+                ]
+            },
+            {
+                "title": "To Expand Their Style, Oranges Need To:",
+                "para": [
+                    "Delegate Responsibility",
+                    "Be more accepting of others' ideas",
+                    "Learn to prioritize"
+                ]
+            }
+        ]
+    },
+    {
+        "quiz":"fruit",
+        "name": "Banana",
+        "desc": [
+            {
+                "title": "Natural Abilities Include:",
+                "para": [
+                    "Planning",
+                    "Fact-finding",
+                    "Organizing",
+                    "Following directions"
+                ]
+            },
+            {
+                "title": "Bananas Learn Best When They:'",
+                "para": [
+                    "Have an orderly environment",
+                    "Have specific outcomes",
+                    "Can trust others to do their part",
+                    "Have predictable situations"
+                ]
+            },
+            {
+                "title": "Bananas May Have Trouble:'",
+                "para": [
+                    "Understanding feelings",
+                    "Dealing with opposition",
+                    "Answering 'What if' questions"
+                ]
+            },
+            {
+                "title": "To Expand Their Style, Bananas Need To:",
+                "para": [
+                    "Express their own feelings more",
+                    "Get explanations of others' views",
+                    "Be less rigid"
+                ]
+            }
+        ]
+    },
+    {
+        "quiz":"fruit",
+        "name": "Melon",
+        "desc": [
+            {
+                "title": "Natural Abilities Include:",
+                "para": [
+                    "Debating points of view",
+                    "Finding solutions",
+                    "Analyzing ideas",
+                    "Determining value or importance"
+                ]
+            },
+            {
+                "title": "Melons Learn Best When They:",
+                "para": [
+                    "Have access to resources",
+                    "Can work independently",
+                    "Are respected for intellectual ability",
+                    "Follow traditional methods"
+                ]
+            },
+            {
+                "title": "Melons May Have Trouble:",
+                "para": [
+                    "Working in groups",
+                    "Being criticized",
+                    "Convincing others diplomatically"
+                ]
+            },
+            {
+                "title": "To Expand Their Style, Melons Need To:",
+                "para": [
+                    "Accept imperfection",
+                    "Consider all alternatives",
+                    "Consider others' feelings"
+                ]
+            }
+        ]
+    },
+    {
+        "quiz":"love",
+        "name": "Words Of Affirmation",
+        "desc": [
+            {
+                "title": "Verbal Compliments",
+                "para": ["Verbal compliments, or words of appreciation, are powerful communicators of love. They are best expressed as straightforward statements of affirmation. The object of love is not getting something you want but doing something for the well-being of the one you love. But when we receive affirming words we are far more likely to be motived to reciprocate."]
+            },
+            {
+                "title": "Encouraging Words",
+                "para": ["Encouraging words means 'to inspire courage.' All of us have areas in which we feel insecure. We often lack courage, and that lack of courage can hinder us from accomplishing the positive things that we would like to do. The latent potential within your partner in his or her areas of insecurity await your encouraging words. Encouragement requires empathy and seeing the world from your mate's perspective. We must first learn what is important to our partner. Only then can we give encouragement."]
+            },
+            {
+                "title": "Kind Words",
+                "para": ["If we are to communicate love verbally, we must use kind words. Sometimes our voices are saying one thing, but our tone of voice is saying another. Your partner will usually interpret your message based on tone of voice, not the words you use."]
+            },
+            {
+                "title": "Words Of Forgiveness",
+                "para": ["Love doesn't keep a score of wrongs. Love doesn't bring up past failures. None of us is perfect. In a relationship we do not always do the best or right thing. We have sometimes done and said hurtful things to our partner. We cannot erase the past. We can only confess it and agree that it was wrong. We can ask for forgiveness and try to act differently in the future. If you have been wronged by your partner and s/he has confessed and requested forgiveness, then you have a choice. You can extend justice or forgiveness. If you choose forgiveness, intimacy can be restored. Forgiveness is the way of love. We can choose to live today free from the failures of yesterday. Forgiveness is not a feeling; it is a commitment. It is a choice to show mercy, not hold the offense up against the offender."]
+            },
+            {
+                "title": "Humble Words",
+                "para": ["Love makes requests, not demands. While dating or in marriage, you and your mate are equal adult partners. We are not perfect to be sure. If we are to develop an intimate relationship, we need to know each other's desires. The way we express those desires, however, is all-important. If they come across as demands, we have erased the possibility of intimacy and will drive our partner away. If, however, we make known our needs and desires as requests, we are giving guidance, not ultimatums. When you make a request of your partner, you are affirming his or her worth and abilities. A request introduces the element of choice. Your mate may choose to respond to your request or to deny it, because love is always a choice. Your partner may comply with a demand, but it is not an expression of love. A request creates the possibility for an expression of love, whereas a demand suffocates that possibility."]
+            }
+        ]
+    },
+    {
+        "quiz":"love",
+        "name": "Quality Time",
+        "desc": [
+            {
+                "title": "Togetherness",
+                "para": ["Togetherness has to do with focus, giving your mate your undivided attention (not sitting on the couch watching TV together). It means that we are doing something together and that we are giving our full attention to the other person. The activity in which we are both engaged in incidental, it is simply a vehicle that creates the sense of togetherness"]
+            },
+            {
+                "title": "Quality Conversation",
+                "para": ["Sympathetic dialogue involves shared experiences, thoughts, feelings, and desires in a friendly, uninterrupted context. Quality conversation focuses on what we are hearing - drawing out your partner's thoughts, listening sympathetically, asking questions (who, what, how, where, gentle why) with a genuine desire to understand"]
+            },
+            {
+                "title": "Learning To Talk",
+                "para": ["Self-revelation does not come easy for some of us. Awareness and expression of our emotions (glad, mad, sad, bad, or afraid) is essential for a healthy relationship. Emotions are neither good nor bad. They are simply our psychological responses to the events of life. In each of life's events, we have emotions, thoughts, desires, and eventually actions. It is the expression of this process that we call self-expression."]
+            },
+            {
+                "title": "Personality Types",
+                "para": ["How we communicate has a great deal to do with our personality type and gender. Are you a 'Dead Sea' or 'Babbling Brook?' Men and women tend to have basic differences in how and what they communicate, and how they problem solve. Become aware of your own and your partner's personality style and shape your communication accordingly."]
+            },
+            {
+                "title": "Quality Activities",
+                "para": ["These can include anything in which one or both of you has an interest. The emphasis is not on what you are doing but on why you are doing it. The purpose is to experience something together, to walk away from it feeling 'My partner cares for me. S/he was willing to do something with me that I enjoy, and did it with a positive attitude.' The essential ingredients in a quality activity are: at least one of you wants to do it, the other is willing to do it, and both of you know why you are doing it - to express love by being together."]
+            }
+        ]
+    },
+    {
+        "quiz":"love",
+        "name": "Receiving Gifts",
+        "desc": [
+            {
+                "title": "Gift Giving",
+                "para": ["Gift giving is a universal part of the love relationship, it is a fundamental expression of love that transcends cultural barriers. You must be thinking of someone else to give them a gift, and the gift itself is a symbol of that thought. It doesn't matter whether it costs money, gifts may be purchased, found, or made. What is important is that you thought of your partner. And it is not just the thought implanted in the mind that counts, but the thought expressed in actually securing the gift and giving it as an expression of love."]
+            },
+            {
+                "title": "The Gift Of Self",
+                "para": ["The gift of self (or presence) is an intangible gift that can speak more loudly than a gift that can be held in one's hand. Being there when your partner needs you is a priceless gift, your body becomes the symbol of your love."]
+            }
+        ]
+    },
+    {
+        "quiz":"love",
+        "name": "Acts Of Service",
+        "desc": [
+            {
+                "title": "Serve One Another In Love (Galatians 5:13)",
+                "para": ["Acts of service means doing things you know your partner would like you to do. You seek to please them by serving, which requires thought, planning, time, effort, and energy. But requests for service cannot be demands, manipulation by guilt or coercion by fear. There are three principles to keep in mind: Remember what you do for each other before marriage is no indication of what we will do after marriage. Before marriage, we are carried along by the force of the 'in-love' obsession. After marriage, we revert to being the people we were before we 'fell in love.', Love is a choice and cannot be coerced. Each of us must decide daily to love or not to love our partners. If we choose to love, then expressing it in the way in which our partner requests will make our love most effective emotionally, and Your partner's criticisms about your behavior provide you with the clearest clue to his/her primary love language. People tend to criticize their mate most loudly in the area which they themselves have the deepest emotional need"]
+            },
+            {
+                "title": "Overcoming Stereotypes",
+                "para": ["Learning the love language of acts of service will require some to reexamine their stereotypes of the roles of husbands and wives. A willingness to examine and change stereotypes is necessary in order to express love more effectively. Remember, there are no rewards for maintaining. But there are tremendous benefits to meeting the emotional needs of your partner."]
+            }
+        ]
+    },
+    {
+        "quiz":"love",
+        "name": "Physical Touch",
+        "desc": [
+            {
+                "para": ["Physical touch is a fundamental expression of love and meets an essential biological need within each of us. Holding hands, kissing, embracing, back rubs and sexual intimacy are all ways of communicating emotional love to your partner. Since touch receptors are located throughout the body, lovingly touching your mate just about anywhere can be an expression of love. But remember your touch does not always need to be sexual in nature or intent."]
+            },
+            {
+                "title": "Some Tips",
+                "para": ["Not all touches are created equal. Some will bring more pleasure to your mate than others. Your best instructor is your partner. Consider doing a sensate focus exercise. Caress your partner and try to discover the most sensitive areas of his/her body and the kind of stimulation s/he enjoys most. They may, for example, prefer a gentler touch, or perhaps a rougher one, than yourself would enjoy. Your partner can use a 'spectrum rating scale' to describe how positive or negative your touch is on different parts of their body. '1' up to '10' is for positive touch and '-1' down to '-10' is for negative touch. Remember, loving touch does not always need to lead to sexual intimacy."]
+            }
+        ]
+    },
+    {
+        "quiz":"myers",
+        "name":"Extraverted",
+        "order":2,
+        "desc":[
+            {
+                "para":["Prefer group activities, think before speaking, get energized by social interaction."]
+            },
+            {
+                "para":["I like getting my energy from active involvement in events and having a lot of different activities. I'm excited when I'm around people and I like to energize other people, I like moving into action and making things happen. I generally feel at home in the world. I often understand a problem better when I can talk out loud about it and hear what others have to say."]
+            },
+            {
+                "title":"The following statements generally apply to me:",
+                "para":["I am seen as 'outgoing' or as a 'people person'."]
+            },
+            {
+                "para":["I feel comfortable in groups and like working in them."]
+            },
+            {
+                "para":["I have a wide range of friends and know lots of people."]
+            },
+            {
+                "para":["I sometimes jump too quickly into an activity and don't allow enough time to think it over."]
+            },
+            {
+                "para":[ "Before I start a project, I sometimes forget to stop and get clear on what I want to do and why."]
+            }
+        ]
+    },
+    {
+        "quiz":"myers",
+        "name":"Introverted",
+        "order":2,
+        "desc":[
+            {
+                "para":["Prefer solitary activities, think before speaking, get exhausted by social interaction."]
+            },
+            {
+                "para":["I like getting my energy from dealing with ideas, pictures, memories, and reactions that are inside my head, in my inner world. I often prefer doing things alone or with one or two people I feel comfortable with. I take time to reflect so that I have a clear idea of what I'll be doing when I decide to act. Ideas are almost solid things for me. Sometimes I like the idea of something better than the real thing."]
+            },
+            {
+                "title":"The following statements generally apply to me:",
+                "para":["I am seen as 'reflective' or 'reserved'."]
+            },
+            {
+                "para":["I feel comfortable being alone and like things I can do on my own."]
+            },
+            {
+                "para":["I prefer to know just a few people well."]
+            },
+            {
+                "para":["I sometimes spend too much time reflecting and don't move into action quickly enough."]
+            },
+            {
+                "para":["I sometimes forget to check with the outside world to see if my ideas really fit the experience."]
+            }
+        ]
+    },
+    {
+        "quiz":"myers",
+        "name":"Sensing",
+        "order":3,
+        "desc":[
+            {
+                "para":["Down-to-earth, rely on their senses, absorbed in practical matters, focus on what has happened."]
+            },
+            {
+                "para":[ "Paying attention to physical reality, what I see, hear, touch, taste, and smell. I'm concerned with what is actual, present, current, and real. I notice facts and I remember details that are important to me. I like to see the practical use of things and learn best when I see how to use what I'm learning. Experience speaks to me louder than words."]
+            },
+            {
+                "title": "The following statements generally apply to me:",
+                "para":["I remember events as snapshots of what actually happened."]
+            },
+            {
+                "para":["I solve problems by working through facts until I understand the problem."]
+            },
+            {
+                "para":["I am pragmatic and look to the 'bottom line.'"]
+            },
+            {
+                "para":["I start with facts and then form a big picture."]
+            },
+            {
+                "para":["I trust experience first and trust words and symbols less."]
+            },
+            {
+                "para":["Sometimes I pay so much attention to facts, either present or past, that I miss new possibilities."]
+            }
+        ]
+    },
+    {
+        "quiz":"myers",
+        "name":"Intuitive",
+        "order":3,
+        "desc":[
+            {
+                "para":["Imaginative, rely on their intuition, absorbed in ideas, focus on what might happen"]
+            },
+            {
+                "para":["Paying the most attention to impressions or the meaning and patterns of the information I get. I would rather learn by thinking a problem through than by hands-on experience. I'm interested in new things and what might be possible, so that I think more about the future than the past. I like to work with symbols or abstract theories, even if I don't know how I will use them. I remember events more as an impression of what is was like than as actual facts or details of what happened."]
+            },
+            {
+                "title":"The following statements generally apply to me:",
+                "para":["I remember events by what I read 'between the lines' about their meanings."]
+            },
+            {
+                "para":["I solve problems by leaping between different ideas and possibilities."]
+            },
+            {
+                "para":["I am interested in doing things that are new and different."]
+            },
+            {
+                "para":["I like to see the big picture, then to find out the facts."]
+            },
+            {
+                "para":["I trust impressions, symbols, and metaphors more than what I actually experienced."]
+            },
+            {
+                "para":["Sometimes I think so much about new possibilities that I never look at how to make them a reality."]
+            }
+        ]
+    },
+    {
+        "quiz":"myers",
+        "name":"Thinking",
+        "order":4,
+        "desc":[
+            {
+                "para":["Touch, follow their minds, focus on objectivity and rationality."]
+            },
+            {
+                "para":["When I make a decision, I like to find the basic truth or principle to be applied, regardless of the specific situation involved. I like to analyze pros and cons, and then be consistent and logical in deciding. I try to be impersonal, so I won't let my personal wishes--or other people's wishes--influence me."]
+            },
+            {
+                "title":"The following statements generally apply to me:",
+                "para":["I enjoy technical and scientific fields where logic is important."]
+            },
+            {
+                "para":["I notice inconsistencies."]
+            },
+            {
+                "title":"The following statements generally apply to me:",
+                "para":["I look for logical explanations or solutions to most everything."]
+            },
+            {
+                "title":"The following statements generally apply to me:",
+                "para":["I make decisions with my head and want to be fair."]
+            },
+            {
+                "title":"The following statements generally apply to me:",
+                "para":["I believe telling the truth is more important than being tactful."]
+            },
+            {
+                "title":"The following statements generally apply to me:",
+                "para":["Sometimes I miss or don't value the 'people' part of a situation."]
+            },
+            {
+                "title":"The following statements generally apply to me:",
+                "para":["I can be seen as too task-oriented, uncaring, indifferent."]
+            }
+            
+        ]
+    },
+    {
+        "quiz":"myers",
+        "name":"Feeling",
+        "order":4,
+        "desc":[
+            {
+                "para":["Sensitive, follow their hearts, focus on harmony and cooperation."]
+            },
+            {
+                "para":[ "I believe I can make the best decisions by weighing what people care about and the points-of-view of persons involved in a situation. I am concerned with values and what is the best for the people involved. I like to do whatever will establish or maintain harmony. In my relationships, I appear caring, warm, and tactful."]
+            },
+            {
+                "title":"The following statements generally apply to me:",
+                "para":["I have a people or communications orientation."]
+            },
+            {
+                "para":["I am concerned with harmony and nervous when it is missing."]
+            },
+            {
+                "para":["I look for what is important to others and express concern for others."]
+            },
+            {
+                "para":["I make decisions with my heart and want to be compassionate."]
+            },
+            {
+                "para":["I believe being tactful is more important than telling the 'cold' truth."]
+            },
+            {
+                "para":["Sometimes I miss seeing or communicating the 'hard truth' of situations."]
+            },
+            {
+                "para":["I am sometimes experienced by others as to idealistic, mushy, or indirect."]
+            }
+        ]
+    },
+    {
+        "quiz":"myers",
+        "name":"Perceiving",
+        "order":5,
+        "desc":[
+            {
+                "para":["Very good at improvising, prefer keeping their options open, relaxed about their work, seek freedom."]
+            },
+            {
+                "para":[ "I use my perceiving function (whether it is Sensing or Intuition) in my outer life. To others, I seem to prefer a flexible and spontaneous way of life, and I like to understand and adapt to the world rather than organize it. Others see me staying open to new experiences and information. Since this pair only describes what I prefer in the the outer world, inside I may feel very planful or decisive (which I am). Remember, in type language perceiving means 'preferring to take in information.' It does not mean being 'perceptive' in the sense of having quick and accurate perceptions about people or events."]
+            },
+            {
+                "title":"The following statements generally apply to me:",
+                "para":["I like to stay open to respond to whatever happens."]
+            },
+            {
+                "para":["I appear to be loose and casual. I like to keep plans to a minimum."]
+            },
+            {
+                "para":["I like to approach work as play or mix work and play."]
+            },
+            {
+                "para":["I work in bursts of energy."]
+            },
+            {
+                "para":["I am stimulated by an approaching deadline"]
+            },
+            {
+                "para":["Sometimes I stay open to new information so long I miss making decisions when they are needed."]
+            }
+        ]
+    },
+    {
+        "quiz":"myers",
+        "name":"Judging",
+        "order":5,
+        "desc":[
+            {
+                "para":["Decisive, prefer clear rules and guidelines, see deadlines as sacred, seek closure."]
+            },
+            {
+                "para":[ "I use my decision-making (Judging) preference (whether it is Thinking or Feeling) in my outer life. To others, I seem to prefer a planned or orderly way of life, like to have things settled and organized, feel more comfortable when decisions are made, and like to bring life under control as much as possible. Since this pair only describes what I prefer in the outer world, I may, inside, feel flexible and open to new information (which I am). Do not confuse judging with judgmental, its negative sense about people and events. They are not related."]
+            },
+            {
+                "title":"The following statements generally apply to me:",
+                "para":["I like to have things decided."]
+            },
+            {
+                "para":["I appear to be task oriented."]
+            },
+            {
+                "para":["I like to make lists of things to do."]
+            },
+            {
+                "para":["I like to get my work done before playing."]
+            },
+            {
+                "para":["I plan work to avoid rushing just before a deadline."]
+            },
+            {
+                "para":["Sometimes I focus so much on the goal that I miss new information."]
+            }
+        ]
+    },
+    {
+        "quiz":"myers",
+        "name":"ISTJ",
+        "order":1,
+        "desc":[
+            {
+                "title": "You Are:",
+                "para":["Quiet, serious, earn success by thoroughness and dependability. Practical, matter-of-fact, realistic, responsible. Decide logically what should be done and work towards it steadily, regardless of distractions. Take pleasure in making everything orderly and organized - their work, their home, their life. Value traditions and loyalty."]
+            }
+        ]
+    },
+    {
+        "quiz":"myers",
+        "name":"ISFJ",
+        "order":1,
+        "desc":[
+            {
+                "title": "You Are:",
+                "para":["Quiet, friendly, responsible, and conscientious. Committed and steady in meeting their obligations. Thorough, painstaking, and accurate. Loyal, considerate, notice and remember specifics about people who are important to them, concerned with how others feel. Strive to create an orderly and harmonious environment at work and at home."]
+            }
+        ]
+    },
+    {
+        "quiz":"myers",
+        "name":"INFJ",
+        "order":1,
+        "desc":[
+            {
+                "title": "You Are:",
+                "para":["Seek meaning and connection in ideas, relationships, and material possessions. Want to understand what motivates people and are insightful about others. Conscientious and committed in their firm values. Develop a clear vision about how best to serve the common good. Organized and decisive in implementing their vision."]
+            }
+        ]
+    },
+    {
+        "quiz":"myers",
+        "name":"INTJ",
+        "order":1,
+        "desc":[
+            {
+                "title": "You Are:",
+                "para":["Have original minds and great drive for implementing their ideas and achieving their goals. Quickly see patterns in external events and develop long-range explanatory perspectives. When committed, organize a job and carry it through. Skeptical and independent, have high standards or competence and performance - for themselves and others."]
+            }
+        ]
+    },
+    {
+        "quiz":"myers",
+        "name":"ISTP",
+        "order":1,
+        "desc":[
+            {
+                "title": "You Are:",
+                "para":["Tolerant and flexible, quiet observers until a problem appears, then act quickly to find workable solutions. Analyze what makes things work and readily get through large amounts of data to isolate the core of practical problems. Interested in cause and effect, organize facts using logical principles, value efficiency."]
+            }
+        ]
+    },
+    {
+        "quiz":"myers",
+        "name":"ISFP",
+        "order":1,
+        "desc":[
+            {
+                "title": "You Are:",
+                "para":["Quiet, friendly, sensitive, and kind. Enjoy the present moment, what's going on around them. Like to have their own space and to work within their own time frame. Loyal and committed to their values and to people who are important to them. Dislike disagreements and conflicts, do not force their opinions or values on others."]
+            }
+        ]
+    },
+    {
+        "quiz":"myers",
+        "name":"INFP",
+        "order":1,
+        "desc":[
+            {
+                "title": "You Are:",
+                "para":["Idealistic, loyal to their values and to people who are important to them. Want an external life that is congruent with their values. Curious, quick to see possibilities, can be catalysts for implementing ideas. Seek to understand people and help them fulfill their potential. Adaptable, flexible, and accepting unless a value is threatened."]
+            }
+        ]
+    },
+    {
+        "quiz":"myers",
+        "name":"INTP",
+        "order":1,
+        "desc":[
+            {
+                "title": "You Are:",
+                "para":["Seek to develop logical explanations for everything that interests them. Theoretical and abstract, interested more in ideas than in social interaction. Quiet, contained, flexible, and adaptable. Have unusual ability to focus in depth to solve problems in their area of interest. Skeptical, sometimes critical, always analytical."]
+            }
+        ]
+    },
+    {
+        "quiz":"myers",
+        "name":"ESTP",
+        "order":1,
+        "desc":[
+            {
+                "title": "You Are:",
+                "para":["Flexible and tolerant, they take a pragmatic approach focused on immediate results. Theories and conceptual explanations bore them - they want to act energetically to solve the problem. Focus on the here-and-now, spontaneous, enjoy each moment that they can be active with others. Enjoy material comforts and style. Learn best through doing."]
+            }
+        ]
+    },
+    {
+        "quiz":"myers",
+        "name":"ESFP",
+        "order":1,
+        "desc":[
+            {
+                "title": "You Are:",
+                "para":["Outgoing, friendly, and accepting. Exuberant lovers in life, people, and material comforts. Enjoy working with others to make things happen. Bring common sense and a realistic approach to their work, and make work fun. Flexible and spontaneous, adapt readily to new people and environments. Learn best by trying a new skill with other people."]
+            }
+        ]
+    },
+    {
+        "quiz":"myers",
+        "name":"ENFP",
+        "order":1,
+        "desc":[
+            {
+                "title": "You Are:",
+                "para":["Warmly enthusiastic and imaginative. See life as full of possibilities. Make connections between events and information very quickly, and confidently proceed base on the patterns they see. Want a lot of affirmation from others, and readily give appreciation and support, Spontaneous and flexible, often rely on their ability to improvise and their verbal fluency."]
+            }
+        ]
+    },
+    {
+        "quiz":"myers",
+        "name":"ENTP",
+        "order":1,
+        "desc":[
+            {
+                "title": "You Are:",
+                "para":["Quick, ingenious, stimulating, alert, and outspoken. Resourceful in solving new and challenging problems. Adept at generating conceptual possibilities and then analyzing them strategically. Good at reading other people. Bored by routine, will seldom do the same thing the same way, apt to turn to one new interest after another."]
+            }
+        ]
+    },
+    {
+        "quiz":"myers",
+        "name":"ESTJ",
+        "order":1,
+        "desc":[
+            {
+                "title": "You Are:",
+                "para":["Practical, realistic, matter-of-fact. Decisive, quickly move to implement decisions. Organize projects and people to get things done, focus on getting results in the most efficient way possible. Take care of routine details. Have a clear set of logical standards, systematically follow them and want others to also. Forceful in implementing their plans."]
+            }
+        ]
+    },
+    {
+        "quiz":"myers",
+        "name":"ESFJ",
+        "order":1,
+        "desc":[
+            {
+                "title": "You Are:",
+                "para":["Warmhearted, conscientious, and cooperative. Want harmony in their environment, work with determination to establish it. Like to work with others to complete tasks accurately and on time. Loyal, follow through even in small matters. Notice what others need in their day-by-day lives and try to provide it. Want to be appreciated for who they are and for what they contribute."]
+            }
+        ]
+    },
+    {
+        "quiz":"myers",
+        "name":"ENFJ",
+        "order":1,
+        "desc":[
+            {
+                "title": "You Are:",
+                "para":["Warm, empathetic, responsive, and responsible. Highly attuned to the emotions, needs, and motivations of others. Find potential in everyone, want to help others fulfill their potential. May act as catalysts for individual and group growth. Loyal, responsive to praise and criticism. Sociable, facilitate others in a group, and provide inspiring leadership."]
+            }
+        ]
+    },
+    {
+        "quiz":"myers",
+        "name":"ENTJ",
+        "order":1,
+        "desc":[
+            {
+                "title": "You Are:",
+                "para":["Frank, decisive, assume leadership readily. Quickly see illogical and inefficient procedures and policies, develop and implement comprehensive systems to solve organizational problems. Enjoy long-term planning and goal setting. Usually well informed, well read, enjoy expanding their knowledge and passing it on to others. Forceful in presenting their ideas."]
+            }
+        ]
+    },
+    {
+        "quiz":"intelligence",
+        "name":"Linguistic",
+        "desc":[
+            {
+                "para":["The linguistic intelligence is the ability to communicate through language, which includes listening, reading, writing, and speaking. Learners who are strong in linguistic intelligence are said to be word wise. They have an extensive vocabulary. They tell great stories. They are good with puns and plays on words. They always seem to know what to say and when to say it. They learn best through verbal presentations, reading, writing, discussions, conducting interviews, and listening to lectures. People who are word wise may choose a career as an author, poet, editor, public speaker, translator, talk show host, attorney, judge, politician, or educator."]
+            },
+            {
+                "title":"Teaching ideas and activities to stimulate the linguistic intelligence",
+                "para":["Assign journaling activities."]
+            },
+            {
+                "para":["Use metaphors, similes, and paraphrasing."]
+            },
+            {
+                "para":["Create opportunities to read and discuss."]
+            },
+            {
+                "para":["Prepare engaging lectures and guest speakers."]
+            },
+            {
+                "para":["Use interesting graphics, slogans, and posters."]
+            },
+            {
+                "para":["Employ word games, mnemonics, and affirmations."]
+            },
+            {
+                "para":["Bring in trade journal articles, websites, and blog posts."]
+            },
+            {
+                "para":["Implement games for vocabulary development such as Password, Wheel of Fortune, Jeopardy, Scrabble, word searches, and crossword puzzles."]
+            },
+            {
+                "title":"Linguistic study methods",
+                "para":["Rewrite notes."]
+            },
+            {
+                "para":["Engage in debate"]
+            },
+            {
+                "para":["Recite information"]
+            },
+            {
+                "para":["Write scripts for role-plays"]
+            },
+            {
+                "para":["Read the text and highlight 20 percent or less."]
+            },
+            {
+                "para":["Work in study groups to explain and discuss."]
+            },
+            {
+                "para":["Outline chapters in chosen format(linear or mind mapping)."]
+            },
+            {
+                "title":"Lastly",
+                "para":["Learners who are more developed in the linguistic intelligence are often highly interpersonal and will remember much of what they hear and more of what they hear and then say. Asking learners for their opinions or to explain their perspectives will give them the opportunity for open participation."]
+            }
+        ]
+    },
+    {
+        "quiz":"intelligence",
+        "name":"Bodily-Kinesthetic",
+        "desc":[
+            {
+                "para":["The bodily-kinesthetic intelligence the ability to use the physical body skillfully to solve problems, create products, or present ideas and emotions, as well as take in knowledge through bodily sensation such as coordination or working with the hands. Learners who are strong in bodily-kinesthetic intelligence are said to be body wise. Learners who prefer this intelligence are able to untie their body and mind through physical performance and manipulative skills. They use their bodies to communicate, dance, act, and perform athletic tasks. They often learn best when there is movement involved or the information is presented through a physical demonstration ir hands-on participation. You might recognize learners of this preferred intelligence as the wiggle worms who can't sit still in class. They are always in motion. People who are body wise might choose a career as a dancer, athlete, surgeon, carpenter, astronaut, barber, or cosmetologist."]
+            },
+            {
+                "title":"Teaching ideas and activities to stimulate the linguistic intelligence",
+                "para":["Role-play."]
+            },
+            {
+                "para":["Conduct experiments."]
+            },
+            {
+                "para":["Use physical gestures."]
+            },
+            {
+                "para":["Build and label models."]
+            },
+            {
+                "para":["Play charades or pictionary."]
+            },
+            {
+                "para":["Practice skills applications."]
+            },
+            {
+                "para":["Choreograph a movement or procedural sequence."]
+            },
+            {
+                "para":["Insert energizers and stretching activities into lessons."]
+            },
+            {
+                "para":["Physically rearrange the learning environment together."]
+            },
+            {
+                "para":["Use ball-toss reviews and any game that gets learners up."]
+            },
+            {
+                "para":["Use online or app-based simulations for hand-eye coordination."]
+            },
+            {
+                "para":["Assign projects and run experiments that appeal to touch and feel."]
+            },
+            {
+                "title":"Bodily-kinesthetic study methods",
+                "para":["Act out the information."]
+            },
+            {
+                "para":["Pace and recite while you study."]
+            },
+            {
+                "para":["Use flashcards with a fellow learner."]
+            },
+            {
+                "para":["Design games that apply to the material."]
+            },
+            {
+                "para":["Peer-coach the material to another learner."]
+            },
+            {
+                "para":["Apply the course material in a practical manner."]
+            },
+            {
+                "para":["Employ group study with alternating discussion leaders."]
+            },
+            {
+                "title":"Lastly",
+                "para":["Learners who are strong in the bodily-kinesthetic intelligence dislike having to sit for long periods of time. They prefer to be able to get up on their own schedule and stand, walk around, or stretch as needed. They like to apply the information to real-world experiences. One way to grab the attention of these learners is to ask how they feel about something or how they would respond to a specific issue."]
+            }
+        ]
+    },    {
+        "quiz":"intelligence",
+        "name":"Intrapersonal",
+        "desc":[
+            {
+                "para":["The intrapersonal intelligence reflects the ability to understand one's own behavior and feelings. These learners have the ability to quietly contemplate and self-assess their accomplishments, reviewing their behavior and innermost feelings. Learners who are strong in intrapersonal intelligence are said to be self wise. They tend to be loners and think best on their own instead of bouncing ideas off others. They retain information better after they have had time to think about it. They like self-assessment, reflection, and planning. They enjoy tasks in solitude where they can best rely on their intuition. You may find them daydreaming or meditating. They are very much into self-discovery learning. People who are self-wise might choose a career as an author, philosopher, theologian, psychiatrist, psychologist, researcher, backpacker, sailor, or artist."]
+            },
+            {
+                "title":"Teaching ideas and activities to stimulate the linguistic intelligence",
+                "para":["Avoid educator-directed activities."]
+            },
+            {
+                "para":["Arrange internet research projects."]
+            },
+            {
+                "para":["Schedule reflection and introspection."]
+            },
+            {
+                "para":["Assign self-paced, independent projects."]
+            },
+            {
+                "para":["Assign workbook activities and case studies."]
+            },
+            {
+                "para":["Have learners recall personal feelings or memories."]
+            },
+            {
+                "para":["Suggest alternative opinions and let the learner choose."]
+            },
+            {
+                "para":["Set goals and priorities and draft an action plan and to-do lists."]
+            },
+            {
+                "title":"intrapersonal study methods",
+                "para":["Study in a quiet setting."]
+            },
+            {
+                "para":["Relate content to personal experiences."]
+            },
+            {
+                "para":["Pause to ponder over what has been read."]
+            },
+            {
+                "para":["Consider the causes and effects of the information."]
+            },
+            {
+                "para":["Take one-minute reflection periods for introspection."]
+            },
+            {
+                "para":["Think about why material is important and what it relates to."]
+            },
+            {
+                "para":["Journal key points and what the information means to the learner."]
+            },
+            {
+                "title":"Lastly",
+                "para":["You can best instruct learners who are self-wise by giving them more silent reflection time to think about what has been learned. Involve these learners by sharing individual needs, frustrations, questions, and goals. Involve these learners by asking what they would do in a certain situation or how the situation makes them feel. These learners are motivated by being allowed to manage their own work."]
+            }
+        ]
+    },    {
+        "quiz":"intelligence",
+        "name":"Logical-Mathematical",
+        "desc":[
+            {
+                "para":["The logical-mathematical intelligence demonstrates the ability to understand logical reasoning and problem solving in areas such as math, science, sequences, and patterns. Logical-mathematical thinkers can think things through in a logical, systematic manner. Learners who are strong in logical-mathematical intelligence are said to be logic wise. These learners are good with numbers and computations, often love games, and generally follow the rules. They are able to quantify, analyze, sequence, evaluate, synthesize, and apply. They often ask the 'why' and 'how' questions. They like to understand the reasons for doing something. They want to classify, sort, understand, predict, and fix things. People who are logic wise might choose a career as a lawyer, banker, educator, astronomer, inventor, engineer, scientist, computer programmer, or detective."]
+            },
+            {
+                "title":"Teaching ideas and activities to stimulate the linguistic intelligence",
+                "para":["Evaluate ideas."]
+            },
+            {
+                "para":["Synthesize ideas."]
+            },
+            {
+                "para":["Brainstorm ideas."]
+            },
+            {
+                "para":["Play number games."]
+            },
+            {
+                "para":["Practice goal setting."]
+            },
+            {
+                "para":["Make charts and graphs."]
+            },
+            {
+                "para":["Use graphic organizers."]
+            },
+            {
+                "para":["Play Jeopardy-type games."]
+            },
+            {
+                "para":["Classify and categorize information."]
+            },
+            {
+                "para":["Conduct experiments (such as chemistry)."]
+            },
+            {
+                "para":["Explain algorithms (such as the pH scale)."]
+            },
+            {
+                "para":["Sequence events(such as steps in a procedure)."]
+            },
+            {
+                "para":["Discover patterns and trends; mnemonics can play into this."]
+            },
+            {
+                "para":["Play on strong critical-thinking skills (such as with case studies)."]
+            },
+            {
+                "title":"Bodily-kinesthetic study methods",
+                "para":["Study in a quiet setting."]
+            },
+            {
+                "para":["Pause to ponder over what has been read."]
+            },
+            {
+                "para":["Consider the causes and effects of the information."]
+            },
+            {
+                "para":["Take one-minute reflection periods for introspection."]
+            },
+            {
+                "para":["Break material down using traditional or linear outlining."]
+            },
+            {
+                "para":["Think about why material is important and what it relates to."]
+            },
+            {
+                "para":["Journal key points and what the information means to the learner."]
+            },
+            {
+                "title":"Lastly",
+                "para":["The learner who is strong in the logical-mathematical intelligence likes things in order and everything in its place and often experiences stress over confusion and chaos. Repetitive seat work will bore these learners. You can grab their attention by asking how they would solve something or what experts would think of the matter. They are motivated by challenges, problems, and projects."]
+            }
+        ]
+    },    {
+        "quiz":"intelligence",
+        "name":"Musical",
+        "desc":[
+            {
+                "para":["The musical intelligence is the ability to comprehend or create meaningful musical sounds. This intelligence indicates an understanding and appreciation of music and the ability to recognize and keep rhythm, although it does not necessarily mean that an individual has a great singing voice. While this is a talent obviously apparent in musicians, composers, and recording engineers, most of us have a musical intelligence that can be developed. Learners who are strong in musical intelligence are said to be music wise. Music-wise learners are always humming, whistling, singing, or listening to music. They respond to music and learn through rhythm and sound, writing lyrics or jingles, playing music, and so forth. Learners who are music wise might choose a career as a dancer, kindergarten educator, musician, jingle-writer, choir director, theater director, composer, recording engineer, or singer."]
+            },
+            {
+                "title":"Teaching ideas and activities to stimulate the linguistic intelligence",
+                "para":["Develop team cheers."]
+            },
+            {
+                "para":["Do 'clap and slap' memory games."]
+            },
+            {
+                "para":["Compose a musical or rap review drill."]
+            },
+            {
+                "para":["Create music in the learning environment."]
+            },
+            {
+                "para":["Create sounds for the subject being taught."]
+            },
+            {
+                "para":["Use music to call learners back from breaks."]
+            },
+            {
+                "para":["Assign essays that are turned into a musical."]
+            },
+            {
+                "para":["Put vocabulary into music or a jingle format."]
+            },
+            {
+                "para":["Have learners write and perform musical jingles."]
+            },
+            {
+                "para":["Play music in the background during group activities."]
+            },
+            {
+                "para":["Implement musical and dancing energizers during class."]
+            },
+            {
+                "para":["Write a song or mnemonic that includes facts about the subject matter."]
+            },
+            {
+                "title":"Bodily-kinesthetic study methods",
+                "para":["Beat out rhythms while studying."]
+            },
+            {
+                "para":["Write a rap about the study topic."]
+            },
+            {
+                "para":["Play upbeat music on study breaks."]
+            },
+            {
+                "para":["Create rhythms out of vocabulary words."]
+            },
+            {
+                "para":["Play background music while studying or practicing skills."]
+            },
+            {
+                "title":"Lastly",
+                "para":["Those individuals who have a fully developed musical intelligence have strong memories for rhythms and can be energized through music. These learners are sensitive to the pitch, timing, tone, timbre, and rhythm of sounds. They enjoy making melodies and learn through rhythm and sound, whether the sounds are from the human voice, musical instruments, or those of nature. Most learners, however, can learn through music or rhythm; recall how you learned the alphabet, the names of all the states, or the months that have only 30 days."]
+            }
+        ]
+    },    {
+        "quiz":"intelligence",
+        "name":"Naturalist",
+        "desc":[
+            {
+                "para":["The naturalist intelligence is the ability to make cause-and-effect distinctions in the natural world and to use this ability productively, such as in farming or biological science. Learners who are strong is naturalist intelligence are said to be nature wise. They have a keen awareness of the flora and fauna of nature and its phenomena. These individuals can discriminate both natural and non-natural items. For example, they know one plant or bird from another, but they can also identify brands of cars, planes, sneakers, or handbags. They learn best when content can be sorted and classified or is related to the natural world. They have keen observational skills. Learners who are nature wise might choose a career as an ecologist, oceanographer, zoologist, marine biologist, forest ranger, or holistic skin care therapist."]
+            },
+            {
+                "title":"Teaching ideas and activities to stimulate the linguistic intelligence",
+                "para":["Teach aromatherapy"]
+            },
+            {
+                "para":["Journal observations"]
+            },
+            {
+                "para":["Classify and categorize."]
+            },
+            {
+                "para":["Teach outdoors occasionally."]
+            },
+            {
+                "para":["Grow things (such as bacteria)."]
+            },
+            {
+                "para":["Observe characteristics and changes."]
+            },
+            {
+                "para":["List natural ingredients in products."]
+            },
+            {
+                "para":["Examine and then record observations."]
+            },
+            {
+                "para":["Classify by color, size, function, or form."]
+            },
+            {
+                "para":["Take outdoor field trips where appropriate."]
+            },
+            {
+                "para":["Conduct a seven-minute nature walk as an energizer."]
+            },
+            {
+                "para":["Collect specimens (such as in bacteriology and infection control)."]
+            },
+            {
+                "para":["Use analogies that show a relationship between nature and the topic."]
+            },
+            {
+                "title":"Bodily-kinesthetic study methods",
+                "para":["Sort and classify subject matter."]
+            },
+            {
+                "para":["Take a nature walk during study breaks."]
+            },
+            {
+                "para":["Study outdoors when it's practical and not distracting."]
+            },
+            {
+                "para":["Reward study accomplishments with things enjoyed in nature."]
+            },
+            {
+                "para":["Relate abstract information to something concrete in nature."]
+            },
+            {
+                "para":["Explore aspects of the content that reflect a love of nature."]
+            },
+            {
+                "para":["Play nature sounds while studying (e.g., birds, jungle sounds, ocean sounds)."]
+            },
+            {
+                "title":"Lastly",
+                "para":["Learners with a highly developed naturalist intelligence have a strong interest in environmental balance and the ecosystem (and probably recycle). They seek stress relief through natural environments. You might get this learner's attention by asking what the most natural solution to a problem would be or how something could be separated into more limited categories."]
+            }
+        ]
+    },    {
+        "quiz":"intelligence",
+        "name":"Spatial",
+        "desc":[
+            {
+                "para":["The spatial intelligence is the ability to understand spatial relationships and comprehend and create images. Learners who are strong in spatial intelligence are said to be space wise. These learners have a flair for color ands style. They have artistic skills and are good at drawing, art, and creative projects. They relate best when they can understand concepts by creating diagrams, reading through flowcharts, and performing demonstrations. These learners will be frequent volunteers. They can parallel park, pack a box like a game of Tetris, or design and decorate a room. People who are space wise might choose a career as an architect or artist, photographer or sculptor, designer or landscaper, movie director, pilot, or someone in the beauty and wellness industry."]
+            },
+            {
+                "title":"Teaching ideas and activities to stimulate the linguistic intelligence",
+                "para":["Make a mobile."]
+            },
+            {
+                "para":["Use ball-toss reviews."]
+            },
+            {
+                "para":["Play with geometric shapes."]
+            },
+            {
+                "para":["Design graphics, logos, and flyers."]
+            },
+            {
+                "para":["Implement visualization techniques."]
+            },
+            {
+                "para":["Employ dancing and physical energizers."]
+            },
+            {
+                "para":["Use mind mapping and window paning techniques."]
+            },
+            {
+                "para":["Create a collage, montage, or historical timeline."]
+            },
+            {
+                "para":["Create visual aids, such as head sheets or a human skeleton."]
+            },
+            {
+                "para":["Use videos, slideshows, demonstrations, and hands-on experience."]
+            },
+            {
+                "para":["Rearrange the learning environment and change the educator location."]
+            },
+            {
+                "title":"Bodily-kinesthetic study methods",
+                "para":["work with other spatial learners"]
+            },
+            {
+                "para":["work in a group to find and solve problems"]
+            },
+            {
+                "para":["color-code notes so each topic is in the same color."]
+            },
+            {
+                "para":["organize notes from main points to supporting facts."]
+            },
+            {
+                "para":["Mind-map notes using diagrams, graphics, and arrows."]
+            },
+            {
+                "title":"Lastly",
+                "para":["Learners who favor spatial intelligence love a picture-rich environment full of posters, mobiles, and art. You will often find them doodling and fidgeting. You can catch their attention by asking them to imagine or picture something relevant to the topic being covered. They tend to forget spoken words and ideas."]
+            }
+        ]
+    },    {
+        "quiz":"intelligence",
+        "name":"Interpersonal",
+        "desc":[
+            {
+                "para":["The interpersonal intelligence reflects the ability to relate to others by being sensitive to their moods, motivations, and feelings. Learners who are strong in interpersonal intelligence are said to be people wise. These types of learners are good leaders and organizers. They are good mediators. They practice empathy by putting themselves in the shoes of the other person and seeing things from anothers perspective. They make and maintain friends easily. Learners who prefer this intelligence have the ability to persuade, get along with, and influence others. You might recognize them as the social butterflies on the team. They enjoy bouncing their ideas off others and making friends. They relate best through interaction with other learners. Learners who are people wise might choose a career as a coach, educator, customer service representative, politician, actor, sociologist, philanthropist, religious leader, salesperson, or therapist."]
+            },
+            {
+                "title":"Teaching ideas and activities to stimulate the linguistic intelligence",
+                "para":["Role-play."]
+            },
+            {
+                "para":["Resolve case studies."]
+            },
+            {
+                "para":["Practice active listening."]
+            },
+            {
+                "para":["Assign team presentations."]
+            },
+            {
+                "para":["Assign peer-coaching activities."]
+            },
+            {
+                "para":["Use team-building activities and games."]
+            },
+            {
+                "para":["Form teams or pairs for group interaction."]
+            },
+            {
+                "para":["Involve learners in mediation and motivation."]
+            },
+            {
+                "para":["Assign learners to plan competitions or events."]
+            },
+            {
+                "para":["Serve as a mentor or connect learners with mentors."]
+            },
+            {
+                "para":["Create team brainstorm sessions to come up with a name, slogan, and logo."]
+            },
+            {
+                "title":"Bodily-kinesthetic study methods",
+                "para":["Study with a partner."]
+            },
+            {
+                "para":["Act out the information."]
+            },
+            {
+                "para":["Conduct partner or team research."]
+            },
+            {
+                "para":["Use flashcards with a fellow learner."]
+            },
+            {
+                "para":["Design games that apply to the material."]
+            },
+            {
+                "para":["Peer-coach the material to another learner."]
+            },
+            {
+                "para":["Develop cooperative games for the content."]
+            },
+            {
+                "para":["Employ group study with alternating discussion leaders."]
+            },
+            {
+                "title":"Lastly",
+                "para":["Learners who are strong in the interpersonal intelligence also like to apply the information to the real world, much like bodily-kinesthetic learners. They prefer to work with others and find working alone distasteful. They enjoy small groups and workstation projects. These learners can be reached by asking what can be done next or what was learned today. You will recognize these learners because their workstations are where socializing takes place."]
+            }
+        ]
+    },    {
+        "quiz":"intelligence",
+        "name":"Existential",
+        "desc":[
+            {
+                "para":["The existential intelligence is the ability to think philosophically and explore the unknown. Learners who are strong in the existential intelligence are said to be cosmos wise. They are keenly interested in life's deepest questions - such as 'What is the meaning of life?' or 'Why do we die?' - and have a curiosity that goes well beyond the answers their five senses can provide. Existential learners are able to to see the big picture and can make decisions based on collective values and intuition in the absence of concrete evidence or a single clear answer. Existential learners often thrive in open discussion. Learners who are cosmos wise might choose a career as a philosopher, theologian, psychologist, motivational speaker, or CEO."]
+            },
+            {
+                "title":"Teaching ideas and activities to stimulate the linguistic intelligence",
+                "para":["Have learners summarize content."]
+            },
+            {
+                "para":["Give overviews to maintain the big picture."]
+            },
+            {
+                "para":["Brainstorm solutions as a class or in groups."]
+            },
+            {
+                "para":["Approach topics from different points or view."]
+            },
+            {
+                "para":["Have learners create lessons to teach other learners."]
+            },
+            {
+                "para":["Incorporate critical-thinking exercises, such as case studies."]
+            },
+            {
+                "para":["Hold class or group discussions, preferably on questions without answers."]
+            },
+            {
+                "title":"Bodily-kinesthetic study methods",
+                "para":["Meditate."]
+            },
+            {
+                "para":["Give time to daydream."]
+            },
+            {
+                "para":["Mind-map or diagram notes or brainstorming sessions."]
+            },
+            {
+                "para":["Keep a journal while studying for ideas to return to later."]
+            },
+            {
+                "para":["Discuss big questions or concerns with friends or fellow learners."]
+            },
+            {
+                "para":["Pay attention to what is covered on assignments; avoid the urge to research too deeply or follow tangents."]
+            },
+            {
+                "title":"Lastly",
+                "para":["Those learners who have highly developed existential intelligence learn best when the subject is connected to the world outside the learning environment and presented from multiple points of view. The professional educator engages the existential learner by encouraging them to ask the big questions and contemplate how their decisions influence their future. While it's great that they think big, keep in mind that this learner must also be held to the specific details and techniques that they will be tested on in the here and now. As with all of the intelligences, a balance must be struck."]
+            }
+        ]
+    }
+]

@@ -1,0 +1,55 @@
+[
+{
+    "fName":"Samantha",
+    "lName":"Shepherd",
+    "image":"../images/newt.jpeg",
+    "email":"sam@gmail.com",
+    "password":"admin",
+    "admin":true
+},
+{
+    "lastLogin" : "2023-11-28T14:38:29-05:00",
+    "fName":"Amanda",
+    "lName":"Mullin",
+    "image":"../images/jellyfish.jpeg",
+    "email":"amanda@gmail.com",
+    "password":"JellyFish1",
+    "admin":false
+},
+{
+    "lastLogin" :"2024-4-28",
+    "fName":"Kyla",
+    "lName":"Kinslow",
+    "image":"../images/angryCat.jpeg",
+    "email":"kyla@gmail.com",
+    "password":"PinkFlamingo3",
+    "admin":false
+},
+{
+    "lastLogin" : "2024-5-28",
+    "fName":"Taylor",
+    "lName":"Kirby",
+    "image":"../images/heart.jpeg",
+    "email":"tay@gmail.com",
+    "password":"BuilderGirl303",
+    "admin":false
+},
+{
+    "lastLogin" : "2023-11-28",
+    "fName":"Kelli",
+    "lName":"Driskel",
+    "image":"../images/flower.jpeg",
+    "email":"kel@gmail.com",
+    "password":"CosmoGirl101",
+    "admin":false
+}
+]
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,847 @@
+body {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    background-image: 
+        repeating-linear-gradient(190deg, rgba(191, 143, 204, 0.5) 40px,
+        rgba(131, 89, 163, 0.5) 80px, rgba(143, 71, 179, 0.5) 120px,
+        rgba(201, 160, 220, 0.5) 160px, rgba(108, 218, 231, 0.5) 200px,
+        rgba(0, 149, 183, 0.5) 240px, rgba(71, 171, 204, 0.5) 280px,
+        rgba(2, 164, 211, 0.5) 300px),
+        repeating-linear-gradient(-190deg, rgba(2, 164, 211, 0.5) 30px,
+        rgba(71, 171, 204, 0.5) 60px, rgba(0, 149, 183, 0.5) 90px,
+        rgba(108, 218, 231, 0.5) 120px, rgba(201, 160, 220, 0.5) 150px,
+        rgba(143, 71, 179, 0.5) 180px, rgba(131, 89, 163, 0.5) 210px,
+        rgba(191, 143, 204, 0.5) 230px),
+        repeating-linear-gradient(23deg, purple 50px, indigo 100px,
+        darkmagenta 150px, silver 200px, blue 250px,
+        #00468C 300px, #3F26BF 350px, navy 370px);  
+     background-repeat: no-repeat;
+     min-height: 100vh;
+     max-height:100%;
+}
+/* landing page styles */
+#landingPage {
+    background-image: url('../public/images/beachStars.jpeg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100vh;
+}
+/* the toast on the create account modal for the password requirements */
+.createToast {
+    width: 19.5em;
+}
+.createAccountToastBtn {
+    font-size: 10px
+}
+/* .toast {
+    margin: auto;
+} */
+/* the ul holding the requirements for the password */
+.requirements li{
+    width: 9em;
+}
+/* button on side of about astrology page that sends you back to the top */
+.topBtnDiv {
+    float: right;
+    position: fixed;
+    bottom: 1em;
+    right: 1em;
+}
+.topBtn {
+    width: 60px;
+}
+h3 span.userAccountSpan {
+    font-size: 15px!important;
+}
+/* quote settings on landing page */
+.quoteDiv {
+    margin-top: 5em;
+    background: #ffffff73;
+    border-radius: 12px;
+    padding: 10px;
+    text-shadow: 2px 0px 2px rebeccapurple;
+    color: white;
+}
+.quoteDiv img {
+    height: 22px;
+}
+.quoteToast {
+    width: 13em;
+}
+.quote{
+    border-top: 3px ridge rebeccapurple;
+    color: white;
+}
+.quoteDiv img {
+    margin-left: 10px;
+}
+/* edit buttons on account info page */
+.chooseBtn:hover {
+    color: blue;
+}
+/* tabs on the account info page */
+#tabs-tab-quizzes,
+#tabs-tab-home,
+#tabs-tab-numerology,
+#tabs-tab-astrology,
+#tabs-tab-quotes{
+    border: 1px solid black!important
+}
+/* animation for the numbers on the numerology results page */
+@keyframes rock {
+    from {
+    -webkit-transform: rotate(0deg) scale(.75);
+    left: 120%
+    }
+    50% {
+    -webkit-transform: rotate(-0deg) scale(1);
+    left: 0;
+    }
+    to {
+    -webkit-transform: rotate(0deg) scale(.75);
+    }
+}
+/* picture that shows the zodiac symbol on astrology page */
+.zodiacPic {
+    border-radius: 29px;
+}
+/* styles applied throughtout the app */
+.aboutAstrologyDesc,
+.nav-link.active,
+.quizBtn:hover,
+.astroDescDiv,
+.quizBtn {
+    color: black!important;
+}
+.chooseBtn,
+.chooseBtn:hover,
+.legendBtn,
+.quizBtn:hover,
+.removeResultsLink,
+.card,
+.pinBtn,
+.logInBtn,
+.logInBtn:hover,
+.createAccountToastBtn {
+    background: transparent!important;
+}
+.colorDescDiv,
+.colorName, 
+.attachedDescDiv,
+.animalDescDiv,
+.fruitDescDiv,
+.loveDescDiv,
+.myersDescDiv,
+.intelligenceDescDiv,
+.attachedName,
+.animalName,
+.fruitName,
+.loveName,
+.astroTitle,
+.myersName,
+.intelligenceName,
+.loveQuesDiv,
+.attachedQuesDiv,
+.myersQuesDiv,
+.counter,
+.astroDescDiv,
+.astrologyUl,
+.allDesc,
+.allNumTitle {
+    border-radius: 15px;
+}
+.colorDescDiv,
+.attachedDescDiv,
+.animalDescDiv,
+.fruitDescDiv,
+.loveDescDiv,
+.myersDescDiv,
+.intelligenceDescDiv,
+.attachedName,
+.animalName,
+.fruitName,
+.loveName,
+.astroTitle,
+.myersName,
+.intelligenceName,
+.results,
+.allDesc,
+.allNumTitle,
+.allNum,
+.logOutDiv span,
+.accountNumerologyInfo,
+.accountQuizTitle,
+.accountInfo,
+.results {
+    color: #dfd2ff;
+}
+.colorDescDiv, 
+.colorName,
+.attachedName,
+.animalName,
+.fruitName,
+.loveName,
+.astroTitle,
+.myersName,
+.intelligenceName,
+.pinBtn:hover,
+.allDesc,
+.allNumTitle,
+.dropdown-item {
+    background: black;
+}
+.attachedDescDiv,
+.animalDescDiv,
+.fruitDescDiv,
+.loveDescDiv,
+.myersDescDiv,
+.intelligenceDescDiv{
+    background:black;
+}
+.attachedDescDiv,
+.animalDescDiv,
+.fruitDescDiv,
+.loveDescDiv,
+.myersDescDiv,
+.intelligenceDescDiv,
+.colorName,
+.attachedName,
+.animalName,
+.fruitName,
+.loveName,
+.astroTitle,
+.myersName,
+.intelligenceName,
+.astroDescDiv {
+    padding: 6px;
+}
+.attachedName,
+.animalName,
+.fruitName,
+.loveName,
+.astroTitle,
+.myersName,
+.intelligenceName,
+.accountNumerologyInfo,
+.accountQuizTitle {
+    text-shadow: red 2px 0 2px;
+}
+.attachedName,
+.animalName,
+.fruitName,
+.loveName,
+.astroTitle,
+.myersName,
+.intelligenceName,
+.attachedDescDiv,
+.animalDescDiv,
+.fruitDescDiv,
+.loveDescDiv,
+.myersDescDiv,
+.intelligenceDescDiv {
+    margin-bottom: 1em;
+}
+.aboutSubTitle,
+.aboutPara,
+.inputLabel, 
+.numerologyForm label,
+.intelligenceQuiz,
+.aboutAstrologyLinks:hover,
+.signTitle,
+.allPageTitles,
+.numberDescBtn,
+.allBtn,
+.accountInfoNoResults,
+.accountInfoSpan,
+.counter{
+    color: white!important;
+}
+.logInBtn,
+.nav-link.show,
+.logOutLink,
+.accountLink,
+.dropdown-menu a,
+.dropdown-item,
+.nav-link {
+ color: honeydew!important; 
+}
+.logInBtn,
+.nav-link.show,
+.logOutLink,
+.accountLink,
+.dropdown-menu a,
+.dropdown-item,
+.nav-link,
+.logOutDiv span {
+ text-shadow: darkmagenta 3px 0 2px;
+}
+.createAcctBtn, 
+.createAcctBtn:hover,
+.dropdown-menu,
+.logOutLink,
+.logInBtn,
+.logInBtn:hover,
+.logOutLink:hover,
+.accountLink,
+.chooseBtn,
+.pinBtn,
+.removeResultsLink,
+.card,
+.legendBtn {
+    border: none;
+}
+/* makes the links not turn black when hovered over */
+#Meyers > div,
+.logOutLink:hover,
+.logInBtn:hover,
+.nav-link:hover,
+.accountLink:hover,
+.createAcctBtn:hover,
+.titleDesc,
+.myersSubTitle,
+.legendBtn,
+.aboutAstrologyLinks {
+    color: cyan!important;
+}
+/* links in navbar that have underline under the link */
+.createAcctBtn, 
+.createAcctBtn:hover,
+.logOutLink:hover,
+.logInBtn:hover,
+.nav-link:hover,
+.accountLink:hover,
+.legendBtn,
+.accountQuizTitle,
+.removeResultsLink {
+       text-decoration: underline;
+}
+/* about astrology page description  */
+.aboutAstrologyDesc {
+    background: floralwhite;
+    font-size: 18px;
+    padding: 9px;
+    box-shadow: 9px 9px 4px darkslateblue;
+}
+/* main title on landing page */
+.mainTitleDiv {
+    height: 140px;
+    box-shadow: 1px -13px 41px 30px aliceblue;
+    background: #f8f9fa80;
+    border-radius: 20px;
+    margin-top: 7em;
+}
+/* drop down menu on navbar, main title on landing page and the counter on each quiz page (7 total) and all the submit buttons on the forms found on modals */
+.dropdown-menu,
+.counter,
+.submitBtn {
+    background-color: rebeccapurple;
+}
+/* main title on landing page and logout link on navbar */
+.mainTitleDiv,
+.logOutLink,
+.createToast .toast-body {
+    align-items: center;
+}
+/* color quiz description for user results */
+.colorDescDiv {
+    padding: 1.5em;
+    margin-bottom: 2em
+}
+/* color quiz result title  that displays with the colorDescDiv*/
+.colorName{
+    text-shadow: white 1px 0 2px;
+}
+/* h1 that is the subtitle to the main title on myers-brigg quiz */
+.myersSubTitle{
+    text-shadow: 4px 1px 2px black;
+}
+/* div that holds the question buttons for 3 quizzes */
+.loveQuesDiv,
+.attachedQuesDiv,
+.myersQuesDiv {
+    background-color: #ffffffa8;
+    padding-bottom: 36px;
+    margin-top: 4em;
+    box-shadow: 14px 21px 0px -2px #00000042;
+}
+.attachedQuesDiv,
+.myersQuesDiv {
+    padding-top: 10px;
+}
+/* h2 that is on aboutAstrologyDesc and aboutPersonality page that is main titles leading into paragraphs..astroTrait is on AccountAstrology and astrology page and is the subtitles to the main titles*/
+.mainAboutTitle, .astroTrait {
+    color: #95e4ff;
+    background: #0000009e;
+    border-radius: 12px;
+    border: 4px ridge rebeccapurple;
+    margin: 1em 0 1em 0;
+}
+/* subtitles on aboutPersonality page */
+.aboutSubTitle {
+    text-decoration:black double underline;
+    padding-bottom: 4px;
+    text-shadow: 2px 0px 2px purple;
+    margin: 1em 0 1em 0
+}
+/* some styling for the numerology on account info page and the astology legends page */
+.accountNumerologyDesc,
+.legendPara {
+    padding: 7px;
+}
+.legendPara,
+.accountNumerologyDesc {
+    border-radius: 17px;
+}
+/* astrology legends page */
+.legendPara {
+    background-color: plum;
+    color: indigo;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+/* styling for astrology legend paragraphs, check box on intelligence quiz and account info numerology page */
+.intelligenceQuiz label,
+.accountNumerologyDesc {
+    font-size: 17px;
+}
+/* paragraphs on about pages */
+.aboutPara {
+    text-shadow: 3px 2px 3px black;
+    letter-spacing: 2px;
+    font-size: 1.25em
+}
+/* question counter on each quiz page */
+.counter {
+    box-shadow: 8px 11px 7px black;
+    border: 4px ridge white;
+}
+/* label settings throughout the app and question counter that is on each quiz page */
+.inputLabel, 
+.numerologyForm label,
+.intelligenceQuiz,
+.counter {
+    padding: 4px;
+}
+.gameInputs,
+.nav-link.active:hover,
+.mainTitleDiv,
+.addQuoteLabel,
+.createAccountToastBtn,
+.quoteForm label  {
+    color: rebeccapurple!important;
+}
+.inputLabel, 
+.numerologyForm label {
+    font-size: 21px;
+}
+.inputLabel, 
+.numerologyForm label,
+.intelligenceQuiz {
+    background-color: mediumpurple;
+    border: 1px solid black;
+    border-radius: 10px;
+}
+.inputLabel{
+    width: 320px
+}
+/* checkbox setting that is on intelligence quiz */
+.intelligenceQuiz label {
+    padding-left: 10px;
+}
+.intelligenceQuiz .form-check-input {
+    background-color: cyan;
+}
+.form-check-input:checked {
+    background-color: darkslategrey!important;
+}
+/* checkbox on the add your own quote form */
+.quoteForm .form-check-input {
+    background-color: blueviolet;
+}
+/* main titles on all the pages */
+.allPageTitles {
+    margin-top: 0.5em;
+    text-shadow: black 4px 0 2px;
+}
+/* navbar settings and create account button in login modal */
+.nav-link.active,
+.createAcctBtn, 
+.createAcctBtn:hover {
+    text-shadow: 0 0 0;
+    background: white!important;
+    border: 2px solid black;
+    text-decoration: none;
+}
+/* setting width for the family name form on the astrology page */
+.familyNameForm form {
+    width: 225px;
+    margin: auto;
+}
+/* astrology page styling */
+.astroDescDiv {
+    background: #ffffff6e;
+    text-shadow: 1px 0px 0px blue;
+    letter-spacing: 1px;
+}
+.signTitle{
+    text-shadow: 4px 4px 1px black;
+}
+.strongWord{
+    color: #74acff;
+}
+.astrologyUl{
+    background-color: #000000b8;
+    color: lavender;
+}
+.astrologyUl li {
+    list-style-type: circle;
+    padding: 6px 0 6px 0;
+}
+/* the header on the landing page, the main title on all the pages, and the numbers on the numerology results */
+.landingTitle,
+.allNum,
+.allPageTitles {
+      font-size: 4rem;
+}
+.landingTitle,
+.allPageTitles {
+    font-family: cursive;
+}
+/* NavBar settings */
+.collapsed {
+    margin-right: 1em;
+}
+.logo {
+    height: 44px;
+    margin-left: 1em;
+}
+#love > div{
+     color:hotpink;
+}
+#fruit > div {
+    color:yellow
+}
+#color > div {
+    color:skyblue
+}
+#attached > div {
+    color:greenyellow
+}
+#Intelligence > div {
+    color: salmon
+}
+.navbar,
+.results {
+   border-bottom: 2px solid black;
+}
+.nav-link {
+    width: 115px;
+    text-align: left;
+    padding: 8px 8px 8px 1em; 
+}
+.logOutDiv span,
+.results{
+    text-shadow: black 3px 0 2px;
+}
+.logInBtn {
+    padding-left: 0;
+    width: 85px;
+}
+.dropdown-menu a {
+    margin-left: 2em;
+}
+.navProfilePic{
+    height: 50px;
+    width: 50px;
+}
+/* logout link */
+.logOutLink {
+    margin-bottom: .5em;
+}
+.logOutDiv span a {
+    margin-left: 6px;
+}
+.logOutDiv {
+    padding: 0 8px 8px 1em;
+}
+/* links that remove the underline from the start and also change the color so they all match */
+.logOutLink,
+.accountLink {
+    text-decoration: none;
+}
+/* the quiz buttons for 3 quizzes */
+.quizBtn {
+    text-shadow: cyan 2px 0 2px;
+    background: radial-gradient( transparent,rebeccapurple);
+}
+.quizBtn:hover {
+    border: 1px solid rebeccapurple;
+}
+/* button for the modal explaining what the numerology numbers mean */
+.numberDescBtn {
+    border: 3px ridge cyan;
+    background: repeating-linear-gradient(15deg, black, transparent 100px);
+}
+/* buttons styling for almost all the buttons across the app */
+.allBtn{
+    border: 3px ridge cyan;
+    background: repeating-linear-gradient(45deg, black, transparent 100px);
+}
+/* login/create modal */
+.createAcctBtn, 
+.createAcctBtn:hover {
+    color: #0E6EFD;
+}
+/* flexing several things including links in navbar, love quiz ques div,  next button on all quizes, account form on login modal, attached quiz button div, numerology form */
+.logOutLink,
+.menu,
+.loveQuesDiv,
+.nextBtnDiv,
+.attachedBtnDiv,
+.accountFormDiv,
+.numerologyForm,
+.mainTitleDiv,
+.myersBtnDiv,
+.createToast .toast-body {
+    display: flex;
+}
+/* using justify-content on several things that are flexing */
+.modal-footer,
+.nextBtnDiv,
+.accountFormDiv,
+.numerologyForm,
+.mainTitleDiv {
+    justify-content: center;
+}
+/* account info settings */
+.accountBtn{
+    background: repeating-radial-gradient(cyan, transparent 100px);
+    color: navy;
+}
+.accountNumerologyInfo,
+.accountQuizTitle {
+    font-size: 40px;
+}
+.accountNumerologyDesc {
+    background-color: indigo;
+}
+#animal > div,
+.accountNumerologyDesc {
+    color: plum;
+}
+.card-text,
+.removeResultsLink {
+    font-size: 25px;
+}
+.accountInfoLinks {
+    font-size: 20px;
+}
+.accountInfoLink,
+.accountInfoLinks,
+.removeResultsLink {
+     color: powderblue;
+}
+.accountInfoLink:hover,
+.accountInfoLinks:hover,
+.removeResultsLink:hover,
+.chooseBtn {
+   color: purple; 
+}
+.accountInfoLink:hover,
+.accountInfoLinks:hover,
+.removeResultsLink:hover {
+    text-shadow: 3px 0px 3px cyan;
+}
+.accountInfoNoResults {
+    text-shadow: 4px 3px 4px black;
+}
+.accountInfo {
+    text-shadow: purple 2px 0 2px;
+}
+.accountInfoSpan,
+.accountInfoLink,
+.accountInfoLinks,
+.removeResultsLink {
+    text-shadow: 3px 0px 3px black;
+}
+.profilePicture {
+    height: 100px;
+    width: 100px;
+}
+.profilePicture, 
+.navProfilePic {
+    border-radius: 50px;
+}
+/* styles that show up both on the love quiz div and the links on the navbar */
+.loveQuesDiv,
+.menu,
+.mainTitleDiv,
+.createToast .toast-body {
+    flex-direction: column;
+}
+/* adding margin top to several elements on mulitple pages */
+.numerologyForm,
+.accountFormDiv,
+.loveQuesDiv button{
+    margin-top: 2em;
+}
+/* quiz inputs for animal. fruit, color quizzes */
+.gameInputs {
+    width: 120px;
+    margin: auto;
+}
+/* quiz inputs and create an account inputs */
+.accountFormDiv input {
+    width: 270px;
+}
+.accountFormDiv input,
+.gameInputs {
+      text-align: center;
+}
+/* attached quiz stylings */
+.attachedBtnDiv,
+.myersBtnDiv{
+    justify-content: space-evenly
+}
+/* Results settings for cards */
+.hide, 
+.aboutAstrologyFooter, 
+.navProfilePic {
+    display: none;
+}
+/* numerology/numerology results page settings */
+.numerologyForm label, .numerologyForm button {
+    margin-top: 1em;
+}
+.numberDescBtn {
+    width: 250px;
+}
+.allDesc {
+    padding: 19px;
+}
+.allNumTitle {
+    border: 1px dotted white;
+    padding: 5px;
+}
+.allNum {
+    animation-name: rock;
+    animation-duration: 2s;
+    animation-iteration-count: infinite;
+}
+.cardQuote {
+    color: white;
+    text-shadow: 2px 4px 4px black;
+}
+/* hides the smaller navbar on account info page until the page gets smaller */
+.smallScreenNav {
+    display: none
+}
+/* start of media querie */
+@media screen and (max-width:760px) {
+    /* hides the back to top button on about astrology page */
+      .topBtn {
+        display: none;
+    }
+    /* shows the footer when on smaller screens for back to top button on about astrology page */
+    .aboutAstrologyFooter {
+        display: block;
+    }
+}
+@media screen and (max-width:574px) {
+    /* this is hiding the original tabs */
+    .accountTabs {
+        display: none;
+    }
+    /* this is creating the a second tab section for smaller screens */
+    .smallScreenNav {
+        margin-top:2em;
+        display: block;  
+        display: flex;
+        justify-content: space-evenly;
+        border-bottom: 1px solid white;
+    }
+    /* styles for small navbar buttons */
+    .smallScreenNav button {
+        background: transparent;
+        color: white;
+        border: 1px solid black;
+        border-bottom: none;
+        border-radius: 6px;
+    }
+    /* styles for when they are on that link */
+    .smallScreenNav .smallActive {
+        color: rebeccapurple;
+        background-color: white;
+        padding: 8px 8px 8px 8px;
+     }
+}
+@media screen and (max-width:478px) {
+    /* this is adjusting the family numerology table so that its scrollable on smaller screens */
+    .adjustFamilyTableRow {
+        display: block; 
+        max-width: 27rem; 
+        overflow-y: auto;
+    }
+}
+@media screen and (max-width: 400px) {
+    /* this is adjusting the quizzes results table so that its scrollable on smaller screens */
+    .adjustTableRow {
+        display: block; 
+        max-width: 22rem; 
+        overflow-y: auto;
+    }
+}
+/* media query for navbar when the screen size reaches a certain width */
+@media screen and (min-width:992px) {
+    /* things flexing with the navbar */
+    .logOutDiv,
+    .menu,
+    .entireLogOutNav {
+        display: flex;
+    }
+    /* div around the logout div that contains the account and logout link */
+    .entireLogOutNav {
+        justify-content: flex-end;
+        width: 46vw;
+    }
+    /* makes the profile picture display in navbar */
+        .navProfilePic {
+        display: inline;
+    }
+    /* div around just the logout and account links */
+    .logOutDiv {
+        margin-right: 3em;
+        flex-direction: row-reverse;
+        gap: 2em;
+        padding: 0;
+    }  
+    /* links that are in the navbar */
+    .nav-link,
+    .gameInputs {
+        text-align: center;
+        width: auto;
+    }
+    /* logout link */
+    .logOutLink {
+        margin-bottom: 0;
+    }
+    /* div that goes around the links except whats in the .entireLogOutDiv */
+    .menu {
+        gap: 1em;
+        flex-direction: row;
+    }
+    /* the quiz dropdown in the navbar */
+    .dropdown-menu a {
+        margin-left: 0;
+    }
+    .menu,
+    .logOutDiv,
+    .entireLogOutNav {
+        align-items: center;
+    }
+}
+/* media query for navbar logoutDiv */
+@media screen and (min-width:1200px) {
+    /* div around the logout div that contains the account and logout link */
+    .entireLogOutNav {
+        width: 55vw;
+    }
+}

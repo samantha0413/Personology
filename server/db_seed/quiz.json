@@ -1,0 +1,1046 @@
+[
+    {
+        "name": "animal",
+        "question": ["Likes Authority", "Enthusiastic", "Sensitive Feelings", "Likes Instructions"],
+        "answers": ["lion","otter","golden retriever","beaver"]
+    },
+    {
+        "name": "animal",
+        "question": ["Takes Charge", "Take Risks", "Loyal", "Accurate"],
+        "answers": ["lion", "otter", "golden retriever", "beaver"]
+    },
+    {
+        "name": "animal",
+        "question": ["Determined", "Visionary", "Calm, Even Keel", "Consistent"],
+        "answers": ["lion", "otter", "golden retriever", "beaver"]
+    },
+    {
+        "name": "animal",
+        "question": ["Enterprising", "Very Verbal", "Enjoys Routine", "Predictable"],
+        "answers": ["lion", "otter", "golden retriever", "beaver"]
+    },
+    {
+        "name": "animal",
+        "question": ["Competitive", "Promoter", "Dislikes Change", "Practical"],
+        "answers": ["lion", "otter", "golden retriever", "beaver"]
+    },
+    {
+        "name": "animal",
+        "question": ["Problem Solver", "Enjoys Popularity", "Gives In To Others", "Factual"],
+        "answers": ["lion", "otter", "golden retriever", "beaver"]
+    },
+    {
+        "name": "animal",
+        "question":  ["Productive", "Fun-Loving", "Avoids Confrontations", "Conscientious"],
+        "answers": ["lion", "otter", "golden retriever", "beaver"]
+    },
+    {
+        "name": "animal",
+        "question":  ["Bold", "Likes Variety", "Sympathetic", "Perfectionist"],
+        "answers": ["lion", "otter", "golden retriever", "beaver"]
+    },
+    {
+        "name": "animal",
+        "question": ["Decision Maker", "Spontaneous", "Nurturing", "Detail-Oriented"],
+        "answers": ["lion", "otter", "golden retriever", "beaver"]
+    },
+    {
+        "name": "animal",
+        "question": ["Persistent", "Inspirational", "Peacemaker", "Analytical"],
+        "answers": ["lion", "otter", "golden retriever", "beaver"]
+    },  
+    {
+        "name": "attached",
+        "question": "I often worry that my partner will stop loving me.",
+        "answers": [
+            "Anxious"
+        ]
+    },
+    {
+        "name": "attached",
+        "question": "I find it easy to be affectionate with my partner.",
+        "answers": [
+            "Secure"
+        ]
+    },
+    {
+        "name": "attached",
+        "question": "I fear that once someone gets to know the real me, she/he wont like me.",
+        "answers": [
+            "Anxious"
+        ]
+    },
+    {
+        "name": "attached",
+        "question": "I find that I bounce back quickly after a breakup. It's weird how I can just put someone out of my mind.",
+        "answers": [
+            "Avoidant"
+        ]
+    },
+    {
+        "name": "attached",
+        "question": "When I'm not involved in a relationship, I feel somewhat anxious and incomplete.",
+        "answers": [
+            "Anxious"
+        ]
+    },
+    {
+        "name": "attached",
+        "question": "I find it difficult to emotionally support my partner when s/he is feeling down.",
+        "answers": [
+            "Avoidant"
+        ]
+    },
+    {
+        "name": "attached",
+        "question": "When my partner is away, I'm afraid that s/he might become interested in someone else.",
+        "answers": [
+            "Anxious"
+        ]
+    },
+    {
+        "name": "attached",
+        "question": "I feel comfortable depending on romantic partners.",
+        "answers": [
+            "Secure"
+        ]
+    },
+    {
+        "name": "attached",
+        "question": "My independence is more important to me than my relationships.",
+        "answers": [
+            "Avoidant"
+        ]
+    },
+    {
+        "name": "attached",
+        "question": "I prefer not to share my innermost feelings with my partner.",
+        "answers": [
+            "Avoidant"
+        ]
+    },
+    {
+        "name": "attached",
+        "question": "When I show my partner how I feel, I'm afraid s/he will not feel the same about me.",
+        "answers": [
+            "Anxious"
+        ]
+    },
+    {
+        "name": "attached",
+        "question": "I am generally satisfied with my romantic relationships.",
+        "answers": [
+            "Secure"
+        ]
+    },
+    {
+        "name": "attached",
+        "question": "I don't feel the need to act out much in my romantic relationships.",
+        "answers": [
+            "Secure"
+        ]
+    },
+    {
+        "name": "attached",
+        "question": "I think about my relationships a lot.",
+        "answers": [
+            "Anxious"
+        ]
+    },
+    {
+        "name": "attached",
+        "question": "I find it difficult to depend on romantic partners.",
+        "answers": [
+            "Avoidant"
+        ]
+    },
+    {
+        "name": "attached",
+        "question": "I tend to get very quickly attached to a romantic partner.",
+        "answers": [
+            "Anxious"
+        ]
+    },
+    {
+        "name": "attached",
+        "question": "I have little difficulty expressing my needs and wants to my partner.",
+        "answers": [
+            "Secure"
+        ]
+    },
+    {
+        "name": "attached",
+        "question": "I sometimes feel angry or annoyed with my partner without knowing why.",
+        "answers": [
+            "Avoidant"
+        ]
+    },
+    {
+        "name": "attached",
+        "question": "I am very sensitive to my partner's moods.",
+        "answers": [
+            "Anxious"
+        ]
+    },
+    {
+        "name": "attached",
+        "question": "I believe most people are essentially honest and dependable.",
+        "answers": [
+            "Secure"
+        ]
+    },
+    {
+        "name": "attached",
+        "question": "I prefer casual sex with uncommitted partners to intimate sex with one person.",
+        "answers": [
+            "Avoidant"
+        ]
+    },
+    {
+        "name": "attached",
+        "question": "I'm comfortable sharing my personal thoughts and feelings with my partner.",
+        "answers": [
+            "Secure"
+        ]
+    },
+    {
+        "name": "attached",
+        "question": "I worry that if my partner leaves me I might never find someone else.",
+        "answers": [
+            "Anxious"
+        ]
+    },
+    {
+        "name": "attached",
+        "question": "It makes me nervous when my partner gets too close.",
+        "answers": [
+            "Avoidant"
+        ]
+    },
+    {
+        "name": "attached",
+        "question": "During a conflict, I tend to impulsively do or say things I later regret, rather than be able to reason about things.",
+        "answers": [
+            "Anxious"
+        ]
+    },
+    {
+        "name": "attached",
+        "question": "An argument with my partner doesn't usually cause me to question our entire relationship.",
+        "answers": [
+            "Secure"
+        ]
+    },
+    {
+        "name": "attached",
+        "question": "My partners often want me to be more intimate than I feel comfortable being.",
+        "answers": [
+            "Avoidant"
+        ]
+    },
+    {
+        "name": "attached",
+        "question": "I worry that I'm not attractive enough.",
+        "answers": [
+            "Anxious"
+        ]
+    },
+    {
+        "name": "attached",
+        "question": "Sometimes people see me as boring because I create little drama in relationships.",
+        "answers": [
+            "Secure"
+        ]
+    },
+    {
+        "name": "attached",
+        "question": "I miss my partner when we're apart, but then when we're together I feel the need to escape.",
+        "answers": [
+            "Avoidant"
+        ]
+    },
+    {
+        "name": "attached",
+        "question": "When I disagree with someone, I feel comfortable expressing my opinions.",
+        "answers": [
+            "Secure"
+        ]
+    },
+    {
+        "name": "attached",
+        "question": "I hate feeling that other people depend on me.",
+        "answers": [
+            "Avoidant"
+        ]
+    },
+    {
+        "name": "attached",
+        "question": "If I notice that someone Im interested in is checking out other people, I don't let it faze me. I might feel a pang of jealousy, but it's fleeting.",
+        "answers": [
+            "Secure"
+        ]
+    },
+    {
+        "name": "attached",
+        "question": "If I notice someone I'm interested in is checking out other people, I feel relieved - it means s/he's not looking to make things exclusive.",
+        "answers": [
+            "Avoidant"
+        ]
+    },
+    {
+        "name": "attached",
+        "question": "If I notice someone I'm interested in is checking out other people, it makes me feel depressed.",
+        "answers": [
+            "Anxious"
+        ]
+    },
+    {
+        "name": "attached",
+        "question": "If someone I've been dating begins to act cold and distant, I may wonder what's happened, but I'll know it's probably not about me.",
+        "answers": [
+            "Secure"
+        ]
+    },
+    {
+        "name": "attached",
+        "question": "If someone I've been dating begins to act cold and distant, I'll probably be indifferent; I might even be relieved.",
+        "answers": [
+            "Avoidant"
+        ]
+    },
+    {
+        "name": "attached",
+        "question": "If someone I've been dating begins to act cold and distant, I'll worry that I've done something wrong.",
+        "answers": [
+            "Anxious"
+        ]
+    },
+    {
+        "name": "attached",
+        "question": "If my partner was to break up with me, I'd try my best to show her/him what s/he is missing (a little jealousy can't hurt).",
+        "answers": [
+            "Anxious"
+        ]
+    },
+    {
+        "name": "attached",
+        "question": "If someone I've been dating for several months tell me s/he wants to stop seeing me, I'd feel hurt at first, but I'd get over it.",
+        "answers": [
+            "Secure"
+        ]
+    },
+    {
+        "name": "attached",
+        "question": "Sometimes when I get what I want in a relationship, I'm not sure what I want anymore.",
+        "answers": [
+            "Avoidant"
+        ]
+    },
+    {
+        "name": "attached",
+        "question": "I won't have much of a problem staying in touch with my ex (strictly platonic) - after all, we have a lot in common.",
+        "answers": [
+            "Secure"
+        ]
+    },
+    {
+        "name": "color",
+        "question":   ["Forceful, Determined",
+            "Likes variety, Likes people", 
+            "Peacemaker, Agreeable", 
+            "Honest, Desires fairness", 
+            "Likes clear instructions",
+             "Productive, Responsible"],
+        "answers": ["red", "orange", "yellow", "green", "blue","purple"]
+    },
+    {
+        "name": "color",
+        "question":  ["Likes goals, Takes action", 
+            "Inspiring, Great communicator",
+             "Patient, Caring", 
+             "Humble, Values trust",
+              "Perfectionist, Picky", 
+              "Gets things done on time"],
+        "answers": ["red", "orange", "yellow", "green", "blue","purple"]
+    },
+    {
+        "name": "color",
+        "question":   ["Speaks mind, Strong-willed",
+            "Entertaining, Life of the party", 
+            "Supportive, Gentle",
+            "Committed, Dependable",
+             "Thorough, Accurate", 
+             "Focused, Completes things"],
+        "answers": ["red", "orange", "yellow", "green", "blue","purple"]
+    },
+    {
+        "name": "color",
+        "question":   ["Quick to act, Direct",
+            "Loves fun, Makes quick decisions", 
+            "Gives in to others", 
+            "Spiritual outlook, Values respect",
+             "Likes ideas, Likes to solve problems",
+             "Organized, Level-headed"],
+        "answers": ["red", "orange", "yellow", "green", "blue","purple"]
+    },
+    {
+        "name": "color",
+        "question": ["Wants to win, Competitive","Blurts out what comes to mind",
+            "Warm, Understanding", 
+            "Sincere, Can be naive", 
+            "Under control, Intense", 
+            "Likes to teach, Follows rules"],
+        "answers": ["red", "orange", "yellow", "green", "blue","purple"]
+    },
+    {
+        "name": "color",
+        "question": ["Fiery, Easily annoyed", 
+            "Risk taker, Jumps at opportunities",
+            "Easy-going, Avoids conflict", 
+            "Purposeful, Thankful", 
+            "Likes order, Likes details",
+             "Blunt, to the point"],
+        "answers": ["red", "orange", "yellow", "green", "blue","purple"]
+    },
+    {
+        "name": "color",
+        "question": ["Takes charge, Proud", 
+            "Lots of energy, Spontaneous",
+             "Likes romance", 
+             "Big picture focus, Polite",
+              "Curious, Likes being alone", 
+              "Likes high standards"],
+        "answers": ["red", "orange", "yellow", "green", "blue","purple"]
+    },
+    {
+        "name": "fruit",
+        "question": ["Imagininative", "Investigative", "Realistic", "Analytical"],
+        "answers": ["grape", "orange", "banana","melon"],
+        "desc":["imagination - n. 1. The mental power of forming images of unreal or absent objects. 2. Such power used creatively. 3. Resourcefulness. --imaginative adj. -- imaginatively adv.","investigate - v. -gated, -gating. To make a systematic inquiry (into): examine deeply. --investigation n. --investigative adj. --investigator n.", "realism n. 1. Concern with factucal truth and things as they really are: practicality. 2. Artistic representation intended as an unidealized portrayal of objective reality. --realist n. --realistic adj. -- realistically adv.", "analysis n., pl. -ses 1. separation of an intellectual or substantial whole into its parts for individual study. 2. chem. a. Separation of a substance into its elements to determine their nature (qualitative analysis) or their proportions (quantitative analysis). b. A statement of the results of such study. 3. psychoanalysis --analyst n. --analytic, analytical adj."]
+    },
+    {
+        "name": "fruit",
+        "question": ["Adaptable", "Inquisitive", "Organized", "Critical"],
+        "answers": ["grape", "orange", "banana","melon"]
+    },  
+    {
+        "name": "fruit",
+        "question": ["Relating", "Creating", "Getting to Point", "Debating"],
+        "answers": ["grape", "orange", "banana","melon"]
+    },
+    {
+        "name": "fruit",
+        "question": ["Personal", "Adventurous", "Practical", "Academic"],
+        "answers": ["grape", "orange", "banana","melon"]
+    },
+    {
+        "name": "fruit",
+        "question": ["Flexible", "Inventive", "Precise", "Systematic"],
+        "answers": ["grape", "orange", "banana","melon"]
+    },
+    {
+        "name": "fruit",
+        "question": ["Sharing","Independent","Orderly","Sensible"],
+        "answers": ["grape", "orange", "banana","melon"]
+    },
+    {
+        "name": "fruit",
+        "question": ["Cooperative","Competitive","Perfectionist","Logical"],
+        "answers": ["grape", "orange", "banana","melon"]
+    },
+    {
+        "name": "fruit",
+        "question": ["Sensitive","Risk-Taking","Hard-Working","Intellectual"],
+        "answers": ["grape", "orange", "banana","melon"]
+    },
+    {
+        "name": "fruit",
+        "question": ["People-Person","Problem Solver","Planner","Reader"],
+        "answers": ["grape", "orange", "banana","melon"]
+    },
+    {
+        "name": "fruit",
+        "question": ["Associate","Originate","Memorize","Think Through"],
+        "answers": ["grape", "orange", "banana","melon"]
+    },
+    {
+        "name": "fruit",
+        "question": ["Spontaneous","Changer","Wants Direction", "Judger"],
+        "answers": ["grape", "orange", "banana","melon"]
+    },
+    {
+        "name": "fruit",
+        "question": ["Commmunicating","Discovering","Cautious","Reasoning"],
+        "answers": ["grape", "orange", "banana","melon"]
+    },
+    {
+        "name": "fruit",
+        "question": ["Caring", "Challenging", "Practicing", "Examining"],
+        "answers": ["grape", "orange", "banana","melon"]
+    },
+    {
+        "name": "fruit",
+        "question": ["Feeling", "Experimenting","Doing","Thinking"],
+        "answers": ["grape", "orange", "banana","melon"]
+    },
+  
+    {
+        "name": "love",
+        "question": ["I like to receive notes of affirmation from you","I like it when you hug me"],
+        "answers": ["Words Of Affirmation", "Physical Touch"]
+    },
+    {
+        "name": "love",
+        "question": ["I like to spend one-on-one time with you",
+        "I feel loved when you give me practical help"],
+        "answers": ["Quality Time", "Acts Of Service"]
+    },
+    {
+        "name": "love",
+        "question": ["I like it when you give me gifts","I like taking long walks with you"],
+        "answers": ["Receiving Gifts", "Quality Time"]
+    },
+    {
+        "name": "love",
+        "question": ["I feel loved when you do things to help me",
+        "I feel loved when you hug or touch me"],
+        "answers": ["Acts Of Service","Physical Touch"]
+    },
+    {
+        "name": "love",
+        "question": ["I feel loved when you hold me in your arms",
+        "I feel loved when I receive a gift from you"],
+        "answers": ["Physical Touch", "Receiving Gifts"]
+    },
+    {
+        "name": "love",
+        "question": ["I like to go places with you",
+        "I like to hold hands with you"],
+        "answers": ["Quality Time","Physical Touch"]
+    },
+    {
+        "name": "love",
+        "question": ["I feel loved when you acknowledge me","Visible symbols of love (gifts) are very important to me"],
+        "answers": ["Words Of Affirmation","Receiving Gifts"]
+    },
+    {
+        "name": "love",
+        "question": ["I like to sit close to you", "I like it when you tell me that I am attractive"],
+        "answers": ["Physical Touch","Words Of Affirmation"]
+    },
+    {
+        "name": "love",
+        "question": ["I like to spend time with you",
+        "I like to receive little gifts from you"],
+        "answers": ["Quality Time", "Receiving Gifts"]
+    },
+    {
+        "name": "love",
+        "question": ["I know you love me when you help me",
+        "Your words of acceptance are important to me"],
+        "answers": ["Acts Of Service", "Words Of Affirmation"]
+    },
+    {
+        "name": "love",
+        "question": ["I like to be together when we do things",
+        "I like the kind words you say to me"],
+        "answers": ["Quality Time","Words Of Affirmation"]
+    },
+    {
+        "name": "love",
+        "question": ["I feel whole when we hug","What you do affects me more than what you say"],
+        "answers": ["Physical Touch","Acts Of Service"]
+    },
+    {
+        "name": "love",
+        "question": ["I value your praise and try to avoid your critism", "Several inexpensive gifts mean more to me than one large expensive gift"],
+        "answers": ["Words Of Affirmation","Receiving Gifts"]
+    },
+    {
+        "name": "love",
+        "question": ["I feel closer to you when you touch me", "I feel close when we are talking or doing something together"],
+        "answers": ["Physical Touch","Quality Time"]
+    },
+    {
+        "name": "love",
+        "question": ["I like you to compliment my achievements", "I know you love me when you do things for me that you don't enjoy"],
+        "answers": ["Words Of Affirmation","Acts Of Service"]
+    },
+    {
+        "name": "love",
+        "question": ["I like for you to touch me when you walk by","I like when you listen to me sympathetically"],
+        "answers": ["Physical Touch","Quality Time"]
+    },
+    {
+        "name": "love",
+        "question": ["I really enjoy receiving gifts from you","I feel loved when you help me with my home projects"],
+        "answers": ["Receiving Gifts","Acts Of Service"]
+    },
+    {
+        "name": "love",
+        "question": ["I like when you compliment my appearance","I feel loved when you take the time to understand my feelings"],
+        "answers": ["Words Of Affirmation","Quality Time"]
+    },
+    {
+        "name": "love",
+        "question": ["I feel secure when you are touching me", "Your acts of service make me feel loved"],
+        "answers": ["Physical Touch","Acts Of Service"]
+    },
+    {
+        "name": "love",
+        "question": ["I appreciate the many things you do for me","I like receiving gifts that you make"],
+        "answers": ["Acts Of Service","Receiving Gifts"]
+    },
+    {
+        "name": "love",
+        "question":["I really enjoy the feeling I get when you give me your undivided attention",
+        "I really enjoy the feeling I get when you do some act of service for me"],
+        "answers": ["Quality Time","Acts Of Service"]
+    },
+    {
+        "name": "love",
+        "question": ["I feel loved when you celebrate my birthday with a gift",
+        "I feel loved when you celebrate my birthday with meaningful words (written or spoken)"],
+        "answers": ["Receiving Gifts","Words Of Affirmation"]
+    },
+    {
+        "name": "love",
+        "question": ["I feel loved when you help me out with my chores","I know you are thinking of me when you give me a gift"],
+        "answers": ["Acts Of Service","Receiving Gifts"]
+    },
+    {
+        "name": "love",
+        "question": ["I appreciate it when you remember special days with a gift",
+            "I appreciate it when you listen patiently and don't interrupt me"],
+        "answers": ["Receiving Gifts","Quality Time"]
+    },
+    {
+        "name": "love",
+        "question": ["I enjoy extended trips with you",
+        "I like to know that you are concerned enough to help me with daily tasks"],
+        "answers": ["Quality Time","Acts Of Service"]
+    },
+    {
+        "name": "love",
+        "question": ["Kissing me unexpectedly makes me feel loved",
+        "Giving me a gift for no occasion makes me feel loved"],
+        "answers": ["Physical Touch","Receiving Gifts"]
+    },
+    {
+        "name": "love",
+        "question": ["I like to be told that you appreciate me","I like for you to look at me when we are talking"],
+        "answers": ["Words Of Affirmation","Quality Time"]
+    },
+    {
+        "name": "love",
+        "question": ["Your gifts are always special to me",
+        "I feel loved when you kiss me"],
+        "answers": ["Receiving Gifts","Quality Time"]
+    },
+    {
+        "name": "love",
+        "question": ["I feel loved when you tell me how much you appreciate me",
+        "I feel loved when you enthusiastically do a task I have requested"],
+        "answers": ["Words Of Affirmation","Acts Of Service"]
+    },
+    {
+        "name": "love",
+        "question": ["I need to be hugged by you everyday", "I need your words of affirmation daily"],
+        "answers": ["Physical Touch","Words Of Affirmation"]
+    },
+    {
+        "name":"myers",
+        "question":"At a party do you:",
+        "answers":["Interact with many, including strangers", "interact with a few, known to you"]
+    },
+    {
+        "name":"myers",
+        "question":"Are you more:",
+        "answers":["Realistic than speculative", "Speculative than realistic"]
+    },
+    {
+        "name":"myers",
+        "question":"Is it worse to:",
+        "answers":["Have your 'head in the clouds'", "Be 'in a rut'"]
+    },
+    {
+        "name":"myers",
+        "question":"Are you more impressed by:",
+        "answers":["Principles", "Emotions"]
+    },
+    {
+        "name":"myers",
+        "question":"Are you more drawn toward the:",
+        "answers":["Convincing", "Touching"]
+    },
+    {
+        "name":"myers",
+        "question":"Do you prefer to work:",
+        "answers":["To deadlines", "just 'whenever'"]
+    },
+    {
+        "name":"myers",
+        "question":"Do you tend to choose:",
+        "answers":["Rather carefully", "Somewhat impulsively"]
+    },
+    {
+        "name":"myers",
+        "question":"At parties do you:",
+        "answers":["Stay late, with increasing energy", "Leave early with decreased energy"]
+    },
+    {
+        "name":"myers",
+        "question":"Are you more attracted to:",
+        "answers":["Sensible People", "Imaginative People"]
+    },
+    {
+        "name":"myers",
+        "question":"Are you more interested in:",
+        "answers":["What is actual", "What is possible"]
+    },
+    {
+        "name":"myers",
+        "question":"In judging others are you more swayed by:",
+        "answers":["Laws than circumstances", "Circumstances than laws"]
+    },
+    {
+        "name":"myers",
+        "question":"In approaching others is your inclination to be somewhat:",
+        "answers":["Objective", "Personal"]
+    },
+    {
+        "name":"myers",
+        "question":"Are you more:",
+        "answers":["Punctual", "Leisurely"]
+    },
+    {
+        "name":"myers",
+        "question":"Does it bother you more having things:",
+        "answers":["Incomplete", "Completed"]
+    },
+    {
+        "name":"myers",
+        "question":"In your social groups do you:",
+        "answers":["Keep abreast of other's happenings", "Get behind on the news"]
+    },
+    {
+        "name":"myers",
+        "question":"In doing ordinary things are you more likely to:",
+        "answers":["Do it the usual way", "Do it your own way"]
+    },
+    {
+        "name":"myers",
+        "question":"Writers should:",
+        "answers":["'Say what they mean and mean what they say'", "Express things more by use of analogy"]
+    },
+    {
+        "name":"myers",
+        "question":"Which appeals to you more:",
+        "answers":["Consistency of thought", "Harmonious human relationships"]
+    },
+    {
+        "name":"myers",
+        "question":"Are you more comfortable in making:",
+        "answers":["Logical judgments", "Value judgments"]
+    },
+    {
+        "name":"myers",
+        "question":"Do you want things:",
+        "answers":["Settled and decided", "Unsettled and undecided"]
+    },
+    {
+        "name":"myers",
+        "question":"Would you say you are more:",
+        "answers":["Serious and determined", "Easy-going"]
+    },
+    {
+        "name":"myers",
+        "question":"In phoning do you:",
+        "answers":["Rarely question that it will all be said", "Rehearse what you'll say"]
+    },
+    {
+        "name":"myers",
+        "question":"Facts:",
+        "answers":["'Speak for themselves'", "Illustrate Principles"]
+    },
+    {
+        "name":"myers",
+        "question":"Are visionaries:",
+        "answers":["Somewhat annoying", "Rather fascinating"]
+    },
+    {
+        "name":"myers",
+        "question":"Are you more often:",
+        "answers":["A cool-headed Person", "A warm-hearted Person"]
+    },
+    {
+        "name":"myers",
+        "question":"Is it worse to be:",
+        "answers":["Unjust", "Merciless"]
+    },
+    {
+        "name":"myers",
+        "question":"Should one usually let events occur:",
+        "answers":["By careful selection and choice", "Randomly and by chance"]
+    },
+    {
+        "name":"myers",
+        "question":"Do you feel better about:",
+        "answers":["Having purchased", "Having the option to buy"]
+    },
+    {
+        "name":"myers",
+        "question":"In company do you:",
+        "answers":["Initiate conversation", "Wait to be approached"]
+    },
+    {
+        "name":"myers",
+        "question":"Common sense is:",
+        "answers":["Rarely questionable", "Frequently questionable"]
+    },
+    {
+        "name":"myers",
+        "question":"Children often do not:",
+        "answers":["Make themselves useful enough", "Exercise their fantasy enough"]
+    },
+    {
+        "name":"myers",
+        "question":"In making decisions do you feel more comfortable with:",
+        "answers":["Standards", "Feelings"]
+    },
+    {
+        "name":"myers",
+        "question":"Are you more:",
+        "answers":["Firm than gentle", "Gentle than firm"]
+    },
+    {
+        "name":"myers",
+        "question":"Which is more admirable:",
+        "answers":["The ability to organize and be methodidcal", "The ability to adapt and make do"]
+    },
+    {
+        "name":"myers",
+        "question":"Do you put more value on:",
+        "answers":["Infinite", "Open-minded"]
+    },
+    {
+        "name":"myers",
+        "question":"Does new and non-routine interaction with others:",
+        "answers":["Stimulate and energize you", "Tax your reserves"]
+    },
+    {
+        "name":"myers",
+        "question":"Are you more frequently:",
+        "answers":["A practical sort of person", "A fanciful sort of person"]
+    },
+    {
+        "name":"myers",
+        "question":"Are you more likely to:",
+        "answers":["See how others are useful", "See how others See"]
+    },
+    {
+        "name":"myers",
+        "question":"Which is more satisfying:",
+        "answers":["To discuss an issue throughly", "To arrive at agreement on an issue"]
+    },
+    {
+        "name":"myers",
+        "question":"Which rules you more:",
+        "answers":["Your head", "Your heart"]
+    },
+    {
+        "name":"myers",
+        "question":"Are you more comfortable with work that is:",
+        "answers":["Contracted", "Done on a casual basis"]
+    },
+    {
+        "name":"myers",
+        "question":"Do you tend to look for:",
+        "answers":["The orderly", "Whatever turns groups"]
+    },
+    {
+        "name":"myers",
+        "question":"Do you prefer:",
+        "answers":["Many friends with brief Contact", "A few friends with more lengthy Contact"]
+    },
+    {
+        "name":"myers",
+        "question":"Do you go more by:",
+        "answers":["Facts", "Principles"]
+    },
+    {
+        "name":"myers",
+        "question":"Are you more interested in:",
+        "answers":["Production and distribution", "Design and research"]
+    },
+    {
+        "name":"myers",
+        "question":"Which is more of a compliment:",
+        "answers":["'There is a very logical person.'", "'There is a very sentimental person.'"]
+    },
+    {
+        "name":"myers",
+        "question":"Do you value in yourself more that you are:",
+        "answers":["Unwavering", "Devoted"]
+    },
+    {
+        "name":"myers",
+        "question":"Do you more often prefer the:",
+        "answers":["Final and unalterable statement", "Tentative and preliminary statement"]
+    },
+    {
+        "name":"myers",
+        "question":"Are you more comfortable:",
+        "answers":["After a decision", "Before a decision"]
+    },
+    {
+        "name":"myers",
+        "question":"Do you:",
+        "answers":["Speak easily and at length with strangers", "Find little to say to strangers"]
+    },
+    {
+        "name":"myers",
+        "question":"Are you more likely to trust your:",
+        "answers":["Experience", "Hunch"]
+    },
+    {
+        "name":"myers",
+        "question":"Do you feel:",
+        "answers":["More practical than ingenious", "More ingenious than practical"]
+    },
+    {
+        "name":"myers",
+        "question":"Which person is more to be complimented - one of:",
+        "answers":["Clear reason", "Strong feelings"]
+    },
+    {
+        "name":"myers",
+        "question":"Are you inclined more to be:",
+        "answers":["Fair-minded", "Sympathetic"]
+    },
+    {
+        "name":"myers",
+        "question":"Is it preferable mostly to:",
+        "answers":["Make sure things are arranged", "Just let things happen"]
+    },
+    {
+        "name":"myers",
+        "question":"In relationships should most things be:",
+        "answers":["Re-negotiable", "Random and Circumstantial"]
+    },
+    {
+        "name":"myers",
+        "question":"When the phone rings do you:",
+        "answers":["Hasten to get to it first", "Hope someone else will answer"]
+    },
+    {
+        "name":"myers",
+        "question":"Do you prize more in yourself:",
+        "answers":["A strong sense of reality", "A vivid imagination"]
+    },
+    {
+        "name":"myers",
+        "question":"Are you more drawn to:",
+        "answers":["Fundamentals", "Overtones"]
+    },
+    {
+        "name":"myers",
+        "question":"Which seems the greater error:",
+        "answers":["To be too passionate", "To be too Objective"]
+    },
+    {
+        "name":"myers",
+        "question":"Do you see yourself as basically:",
+        "answers":["Hard-headed", "Soft-hearted"]
+    },
+    {
+        "name":"myers",
+        "question":"Which situation appeal to you more:",
+        "answers":["The structured and scheduled", "The unstructured and unscheduled"]
+    },
+    {
+        "name":"myers",
+        "question":"Are you a person that is more:",
+        "answers":["Routinized than whimsical", "Whimsical than routinized"]
+    },
+    {
+        "name":"myers",
+        "question":"Are you more inclined to be:",
+        "answers":["Easy to approach", "Somewhat reserved"]
+    },
+    {
+        "name":"myers",
+        "question":"In writings do you prefer:",
+        "answers":["The more literal", "The more figurative"]
+    },
+    {
+        "name":"myers",
+        "question":"Is it harder for you to:",
+        "answers":["Identify with others", "Utilize others"]
+    },
+    {
+        "name":"myers",
+        "question":"Which do you wish more for yourself:",
+        "answers":["Clarity of reason", "Strength of compassion"]
+    },
+    {
+        "name":"myers",
+        "question":"Which is the greater fault:",
+        "answers":["Being indiscriminate", "Being critical"]
+    },
+    {
+        "name":"myers",
+        "question":"Do you prefer the:",
+        "answers":["Planned event", "Unplanned event"]
+    },
+    {
+        "name":"myers",
+        "question":"Do you tend to be more:",
+        "answers":["Deliberate than spontaneous", "Spontaneous than deliberate"]
+    },
+    {
+        "name":"intelligence",
+        "question":"Linguistic",
+        "answers":["You talk through problem, ask questions, and explain solutions.","You refer to things you’ve heard or read in your conversations.","You read books, magazines, newspapers, product labels.","You enjoy making puns, tongue-twisters, limericks.","You learn through listening: lecture, CDs, radios, podcasts.","You are good at debating and winning arguments.","You’re a good story teller and express yourself well verbally and in writing.","You like crosswords, Scrabble, other word puzzles.","You sometimes have to explain a word you have used.","In school, you preferred English, history, social studies."]
+    },
+    {
+        "name":"intelligence",
+        "question":"Bodily-Kinesthetic",
+        "answers":["You don’t mind dancing and may even enjoy it.","You are known as a good ‘do-it-yourselfer’.","You enjoy thrilling rides at a theme park.","You prefer hands-on learning rather then reading a book or manual.","You enjoy rough-housing when playing with your children.","Your comprehension is increased when you can physically handle something.","When communicating, you use gestures and body language to get your point across.","You walk or pace when thinking problems or situations through.","In school, you preferred PE and shop/hands-on classes."]
+    },
+    {
+        "name":"intelligence",
+        "question":"Intrapersonal",
+        "answers":["You work independently or often wish you could.","You like to spend quiet time reflecting on important issues in your life.","You keep a daily journal or log to record your innermost thoughts.","You have established your personal goals and a plan of action for achieving them.","You have a personal interest or hobby that you keep to yourself and don’t share.","The ideal vacation to you is an isolated mountain cabin or bungalow on the beach rather than a busy resort.","You like hiking or fishing alone. You are comfortable with yourself.","You are an independent thinker and can make up your own mind.","You have attended self-help seminars or read books to learn more about yourself.","You know your own strengths and weaknesses."]
+    },
+    {
+        "name":"intelligence",
+        "question":"Logical-Mathematical",
+        "answers":["You prefer step-by-step and systematic approaches to problem solving.","When considering things people say and do, you look for logical flaws.","You consider yourself a numbers person and enjoy doing calculations.","It’s helpful to quantify or categorize things to understand their relevance.","You have a natural interest in new scientific discoveries and advances.","You are good at finding specific examples to support a perspective or point of view.","You love brainteasers and puzzles that tap into logical thinking skills.","You vacations follow a preplanned itinerary.","In school, math and science were your favorite subjects."]
+    },
+    {
+        "name":"intelligence",
+        "question":"Musical",
+        "answers":["You can sing and carry a tune.","You remember melodies after hearing them a few times.","You play at least one musical instrument.","You prefer music in the background when working or studying.","You are often caught humming or whistling.","When you hear music, you tap in time.","You can’t imagine life without music.","You can identify different musical instruments.","You often listen to music at home and during your commute.","Jingles or movies soundtracks often pop into your head."]
+    },
+    {
+        "name":"intelligence",
+        "question":"Naturalist",
+        "answers":["You could see yourself as a farmer or park ranger.","You can identify many different types of trees, flowers, and plants.","You like pets.","You keep up to date on health issues.","You consider conservation of resources and achieving sustainable growth important issues at our age.","When out walking, you notice animal tracks, nests, wildlife, and can read weather signs.","You are intrigued by psychology and human motivations and social issues.","You are interested in astronomical developments and the evolution of life in general.","You like to garden and can tell one plant from another.","You are interested in global environmental issues."]
+    },
+    {
+        "name":"intelligence",
+        "question":"Spatial",
+        "answers":["You doodle when taking notes or thinking something through.","When reading, you prefer subject matter filled with illustrations.","You enjoy the arts: theater, film, art, music, etc.","You can visualize how things look from various perspectives.","At family gatherings or special events, you are often the one taking photos and capturing videos for posterity.","You support your position or point with drawings or diagrams.","You find visual games or puzzles appealing and enjoyable.","You are skilled at taking things apart and putting them back together.","You are an adept navigator and read maps well.","In school, you preferred arts and crafts classes and geometry to algebra."]
+    },
+    {
+        "name":"intelligence",
+        "question":"Interpersonal",
+        "answers":["You enjoy and are effective at mentoring others.","Working with a group, team, or committee is preferable to working alone.","When solving a problem, you tend to seek advice and input from others rather than trying to solve it yourself.","Others tend to come to you when they need advice or a good listener.","When it comes to sports, you prefer team sports rather than individual sports.","You don’t hesitate to take the lead our show others how to accomplish something.","You have many close friends.","You are a good communicator and helpful in resolving disputes.","You enjoy games that require participation with others, such as board games.","You prefer to be at a party than at home watching television."]
+    },
+    {
+        "name":"intelligence",
+        "question":"Existential",
+        "answers":["You always look at the big picture.","You enjoy exploring questions with no clear answer, such as the meaning of life.","You approach problems from multiple points of view.","You seek connections between what you are learning now and the larger world.","You often look to the future and consider how your actions will play out.","You can and do rely on intuition to make decisions.","You are religious or interested in the answers religion might provide.","You have literally contemplated the nature of the cosmos.","You are not afraid of the unknown.","You enjoy open discussion with other thinkers."]
+    }
+]
